@@ -1,0 +1,571 @@
+equipe,joueur,nationalite,poste,age,matchs_joues,minutes
+Arsenal,Gabriel Magalhães,br BRA,DF,27,9,810
+Arsenal,David Raya,es ESP,GK,30,9,810
+Arsenal,Viktor Gyökeres,se SWE,FW,27,9,755
+Arsenal,Riccardo Calafiori,it ITA,DF,23,9,695
+Arsenal,Martín Zubimendi,es ESP,MF,26,9,771
+Arsenal,Declan Rice,eng ENG,MF,26,9,714
+Arsenal,Jurriën Timber,nl NED,DF,24,9,702
+Arsenal,William Saliba,fr FRA,DF,24,8,544
+Arsenal,Bukayo Saka,eng ENG,FW,24,7,501
+Arsenal,Leandro Trossard,be BEL,FW,30,7,464
+Arsenal,Eberechi Eze,eng ENG,"MF,FW",27,7,460
+Arsenal,Noni Madueke,eng ENG,FW,23,5,304
+Arsenal,Martin Ødegaard,no NOR,MF,26,6,203
+Arsenal,Mikel Merino,es ESP,MF,29,8,283
+Arsenal,Cristhian Mosquera,es ESP,DF,21,6,294
+Arsenal,Gabriel Martinelli,br BRA,"FW,MF",24,8,220
+Arsenal,Ben White,eng ENG,DF,28,1,70
+Arsenal,Ethan Nwaneri,eng ENG,MF,18,4,149
+Arsenal,Myles Lewis-Skelly,eng ENG,DF,19,6,91
+Arsenal,Kai Havertz,de GER,FW,26,1,31
+Arsenal,Max Dowman,eng ENG,FW,15,2,29
+Arsenal,Piero Hincapié,ec ECU,DF,23,1,9
+Arsenal,Christian Nørgaard,dk DEN,MF,31,1,1
+Arsenal,Andre Annous,eng ENG,FW,17,0,
+Arsenal,Kepa Arrizabalaga,es ESP,GK,31,0,
+Arsenal,Jakub Kiwior,pl POL,"DF,MF",25,0,
+Arsenal,Squad Total,,,26.2,9,810
+Arsenal,Opponent Total,,,26.9,9,810
+Bournemouth,Đorđe Petrović,rs SRB,GK,26,9,810
+Bournemouth,Adrien Truffert,fr FRA,DF,23,9,810
+Bournemouth,Antoine Semenyo,gh GHA,"FW,MF",25,9,809
+Bournemouth,Marcos Senesi,ar ARG,DF,28,9,797
+Bournemouth,Tyler Adams,us USA,MF,26,9,783
+Bournemouth,Marcus Tavernier,eng ENG,"MF,FW",26,9,676
+Bournemouth,Alex Scott,eng ENG,MF,22,9,594
+Bournemouth,Bafodé Diakité,fr FRA,DF,24,7,630
+Bournemouth,Evanilson,br BRA,FW,26,7,616
+Bournemouth,David Brooks,wls WAL,"FW,MF",28,8,476
+Bournemouth,Álex Jiménez,es ESP,DF,20,6,315
+Bournemouth,Justin Kluivert,nl NED,MF,26,8,307
+Bournemouth,Adam Smith,eng ENG,DF,34,3,204
+Bournemouth,James Hill,eng ENG,DF,23,7,276
+Bournemouth,Veljko Milosavljević,rs SRB,DF,18,3,186
+Bournemouth,Eli Junior Kroupi,fr FRA,"FW,MF",19,6,166
+Bournemouth,Amine Adli,ma MAR,"FW,MF",25,7,189
+Bournemouth,Ryan Christie,sct SCO,MF,30,7,188
+Bournemouth,Ben Gannon-Doak,sct SCO,FW,19,3,46
+Bournemouth,Hamed Junior Traorè,ci CIV,MF,25,1,17
+Bournemouth,Ben Winterburn,eng ENG,MF,21,1,7
+Bournemouth,Lewis Cook,eng ENG,MF,28,3,6
+Bournemouth,Julio Soler,ar ARG,FW,20,1,1
+Bournemouth,Enes Ünal,tr TUR,FW,28,1,1
+Bournemouth,Julian Araujo,mx MEX,DF,24,0,
+Bournemouth,Philip Billing,dk DEN,MF,29,0,
+Bournemouth,Will Dennis,eng ENG,GK,25,0,
+Bournemouth,Romain Faivre,fr FRA,"FW,MF",27,0,
+Bournemouth,Remy Rees-Dottin,eng ENG,FW,19,0,
+Bournemouth,Squad Total,,,25.6,9,810
+Bournemouth,Opponent Total,,,27.0,9,810
+Tottenham,Guglielmo Vicario,it ITA,GK,29,9,810
+Tottenham,Micky van de Ven,nl NED,DF,24,9,799
+Tottenham,Mohammed Kudus,gh GHA,"FW,MF",25,9,785
+Tottenham,Pedro Porro,es ESP,DF,26,9,727
+Tottenham,João Palhinha,pt POR,MF,30,9,693
+Tottenham,Cristian Romero,ar ARG,DF,27,7,630
+Tottenham,Rodrigo Bentancur,uy URU,MF,28,8,586
+Tottenham,Djed Spence,eng ENG,DF,25,8,578
+Tottenham,Richarlison,br BRA,FW,28,9,514
+Tottenham,Xavi Simons,nl NED,"MF,FW",22,6,388
+Tottenham,Lucas Bergvall,se SWE,MF,19,8,407
+Tottenham,Pape Matar Sarr,sn SEN,MF,23,8,393
+Tottenham,Brennan Johnson,wls WAL,FW,24,9,363
+Tottenham,Wilson Odobert,fr FRA,FW,20,8,319
+Tottenham,Destiny Udogie,it ITA,DF,22,5,303
+Tottenham,Mathys Tel,fr FRA,FW,20,7,239
+Tottenham,Kevin Danso,at AUT,DF,27,5,198
+Tottenham,Randal Kolo Muani,fr FRA,FW,26,2,73
+Tottenham,Archie Gray,eng ENG,MF,19,2,72
+Tottenham,Dominic Solanke,eng ENG,FW,28,2,33
+Tottenham,Jun'ai Byfield,eng ENG,DF,16,0,
+Tottenham,Ben Davies,wls WAL,"DF,MF",32,0,
+Tottenham,Antonín Kinský,cz CZE,GK,22,0,
+Tottenham,Dane Scarlett,eng ENG,FW,21,0,
+Tottenham,Manor Solomon,il ISR,"FW,MF",26,0,
+Tottenham,Luka Vušković,hr CRO,DF,18,0,
+Tottenham,Squad Total,,,25.7,9,810
+Tottenham,Opponent Total,,,27.1,9,810
+Sunderland,Robin Roefs,nl NED,GK,22,9,810
+Sunderland,Granit Xhaka,ch SUI,MF,33,9,810
+Sunderland,Noah Sadiki,cd COD,MF,20,9,801
+Sunderland,Trai Hume,nir NIR,DF,23,9,798
+Sunderland,Omar Alderete,py PAR,DF,28,8,668
+Sunderland,Nordi Mukiele,fr FRA,DF,27,7,630
+Sunderland,Chemsdine Talbi,ma MAR,"FW,MF",20,9,555
+Sunderland,Enzo Le Fée,fr FRA,"FW,MF",25,8,540
+Sunderland,Wilson Isidor,fr FRA,FW,25,9,528
+Sunderland,Reinildo Mandava,mz MOZ,DF,31,6,482
+Sunderland,Daniel Ballard,nir NIR,DF,26,7,402
+Sunderland,Habib Diarra,sn SEN,MF,21,4,345
+Sunderland,Simon Adingra,ci CIV,FW,23,6,273
+Sunderland,Eliezer Mayenda,es ESP,FW,20,6,260
+Sunderland,Bertrand Traoré,bf BFA,"FW,MF",30,4,215
+Sunderland,Chris Rigg,eng ENG,MF,18,6,187
+Sunderland,Arthur Masuaku,cd COD,"DF,MF",31,3,126
+Sunderland,Lutsharel Geertruida,nl NED,"DF,MF",25,6,167
+Sunderland,Jenson Seelt,nl NED,DF,22,2,134
+Sunderland,Brian Brobbey,nl NED,FW,23,4,76
+Sunderland,Patrick Roberts,eng ENG,"MF,FW",28,1,28
+Sunderland,Marc Guiu,es ESP,FW,19,2,15
+Sunderland,Dan Neil,eng ENG,MF,23,2,2
+Sunderland,Harrison Jones,eng ENG,MF,20,0,
+Sunderland,Luke O'Nien,eng ENG,"DF,MF",30,0,
+Sunderland,Anthony Patterson,eng ENG,GK,25,0,
+Sunderland,Squad Total,,,25.5,9,810
+Sunderland,Opponent Total,,,26.7,9,810
+Manchester City,Erling Haaland,no NOR,FW,25,9,773
+Manchester City,Tijjani Reijnders,nl NED,MF,27,9,740
+Manchester City,Rúben Dias,pt POR,DF,28,9,726
+Manchester City,Gianluigi Donnarumma,it ITA,GK,26,6,540
+Manchester City,Phil Foden,eng ENG,MF,25,7,533
+Manchester City,Matheus Nunes,pt POR,DF,27,7,514
+Manchester City,Nico O’Reilly,eng ENG,"DF,MF",20,8,506
+Manchester City,Jeremy Doku,be BEL,"MF,FW",23,9,476
+Manchester City,Bernardo Silva,pt POR,MF,31,9,465
+Manchester City,Oscar Bobb,no NOR,"MF,FW",22,8,454
+Manchester City,Joško Gvardiol,hr CRO,DF,23,5,429
+Manchester City,Nicolás González,es ESP,MF,23,8,468
+Manchester City,Sávio,br BRA,MF,21,6,336
+Manchester City,John Stones,eng ENG,DF,31,5,325
+Manchester City,Rodri,es ESP,MF,29,5,292
+Manchester City,James Trafford,eng ENG,GK,23,3,270
+Manchester City,Abdukodir Khusanov,uz UZB,DF,21,4,228
+Manchester City,Rayan Aït-Nouri,dz ALG,DF,24,3,202
+Manchester City,Rico Lewis,eng ENG,DF,20,5,175
+Manchester City,Omar Marmoush,eg EGY,"FW,MF",26,4,156
+Manchester City,Nathan Aké,nl NED,DF,30,5,205
+Manchester City,Rayan Cherki,fr FRA,"MF,FW",22,4,92
+Manchester City,Mateo Kovačić,hr CRO,MF,31,1,5
+Manchester City,Manuel Akanji,ch SUI,"DF,MF",30,0,
+Manchester City,Ederson,br BRA,GK,32,0,
+Manchester City,İlkay Gündoğan,de GER,MF,35,0,
+Manchester City,Ryan Mcaidoo,eng ENG,FW,17,0,
+Manchester City,Stephen Mfuni,eng ENG,DF,17,0,
+Manchester City,Divine Mukasa,eng ENG,MF,18,0,
+Manchester City,Stefan Ortega,de GER,GK,32,0,
+Manchester City,Squad Total,,,25.6,9,810
+Manchester City,Opponent Total,,,26.9,9,810
+Manchester Utd,Matthijs de Ligt,nl NED,DF,26,9,810
+Manchester Utd,Bruno Fernandes,pt POR,MF,31,9,800
+Manchester Utd,Bryan Mbeumo,cm CMR,MF,26,9,775
+Manchester Utd,Luke Shaw,eng ENG,DF,30,9,753
+Manchester Utd,Amad Diallo,ci CIV,"DF,MF",23,8,574
+Manchester Utd,Casemiro,br BRA,MF,33,8,453
+Manchester Utd,Leny Yoro,fr FRA,DF,19,9,547
+Manchester Utd,Altay Bayındır,tr TUR,GK,27,6,540
+Manchester Utd,Matheus Cunha,br BRA,"MF,FW",26,8,522
+Manchester Utd,Diogo Dalot,pt POR,DF,26,7,516
+Manchester Utd,Patrick Dorgu,dk DEN,DF,21,8,524
+Manchester Utd,Benjamin Šeško,si SVN,FW,22,9,498
+Manchester Utd,Mason Mount,eng ENG,MF,26,7,332
+Manchester Utd,Harry Maguire,eng ENG,DF,32,7,274
+Manchester Utd,Senne Lammens,be BEL,GK,23,3,270
+Manchester Utd,Manuel Ugarte,uy URU,MF,24,8,285
+Manchester Utd,Noussair Mazraoui,ma MAR,DF,27,3,131
+Manchester Utd,Kobbie Mainoo,eng ENG,MF,20,7,144
+Manchester Utd,Joshua Zirkzee,nl NED,"FW,MF",24,4,86
+Manchester Utd,Ayden Heaven,eng ENG,DF,19,2,30
+Manchester Utd,Tyler Fredricson,eng ENG,DF,20,0,
+Manchester Utd,Tom Heaton,eng ENG,GK,39,0,
+Manchester Utd,Diego León,py PAR,DF,18,0,
+Manchester Utd,Tyrell Malacia,nl NED,DF,26,0,
+Manchester Utd,André Onana,cm CMR,GK,29,0,
+Manchester Utd,Squad Total,,,26.4,9,810
+Manchester Utd,Opponent Total,,,26.2,9,810
+Liverpool,Dominik Szoboszlai,hu HUN,"MF,DF",25,9,810
+Liverpool,Virgil van Dijk,nl NED,DF,34,9,810
+Liverpool,Mohamed Salah,eg EGY,FW,33,9,803
+Liverpool,Ibrahima Konaté,fr FRA,DF,26,9,742
+Liverpool,Milos Kerkez,hu HUN,DF,21,9,660
+Liverpool,Cody Gakpo,nl NED,"FW,MF",26,9,704
+Liverpool,Ryan Gravenberch,nl NED,"MF,DF",23,7,601
+Liverpool,Alexis Mac Allister,ar ARG,MF,26,8,475
+Liverpool,Florian Wirtz,de GER,"MF,FW",22,9,593
+Liverpool,Alisson,br BRA,GK,33,6,540
+Liverpool,Hugo Ekitike,fr FRA,FW,23,8,501
+Liverpool,Conor Bradley,nir NIR,DF,22,7,358
+Liverpool,Giorgi Mamardashvili,ge GEO,GK,25,3,270
+Liverpool,Alexander Isak,se SWE,FW,26,4,251
+Liverpool,Curtis Jones,eng ENG,MF,24,8,327
+Liverpool,Jeremie Frimpong,nl NED,"DF,MF",24,4,86
+Liverpool,Andrew Robertson,sct SCO,DF,31,4,150
+Liverpool,Federico Chiesa,it ITA,"FW,MF",28,7,117
+Liverpool,Wataru Endo,jp JPN,"MF,DF",32,4,39
+Liverpool,Joe Gomez,eng ENG,DF,28,3,39
+Liverpool,Rio Ngumoha,eng ENG,"FW,MF",17,4,33
+Liverpool,Harvey Elliott,eng ENG,"MF,FW",22,1,1
+Liverpool,Giovanni Leoni,it ITA,DF,18,0,
+Liverpool,Kieran Morrison,nir NIR,MF,18,0,
+Liverpool,Trey Nyoni,eng ENG,MF,18,0,
+Liverpool,Freddie Woodman,eng ENG,GK,28,0,
+Liverpool,Squad Total,,,26.9,9,810
+Liverpool,Opponent Total,,,26.8,9,810
+Aston Villa,Morgan Rogers,eng ENG,"MF,FW",23,9,801
+Aston Villa,Matty Cash,pl POL,DF,28,9,786
+Aston Villa,John McGinn,sct SCO,"MF,FW",31,9,709
+Aston Villa,Ollie Watkins,eng ENG,FW,29,9,713
+Aston Villa,Ezri Konsa,eng ENG,DF,28,8,695
+Aston Villa,Lucas Digne,fr FRA,DF,32,9,654
+Aston Villa,Emiliano Martínez,ar ARG,GK,33,7,630
+Aston Villa,Tyrone Mings,eng ENG,DF,32,6,481
+Aston Villa,Boubacar Kamara,fr FRA,MF,25,7,475
+Aston Villa,Pau Torres,es ESP,DF,28,6,436
+Aston Villa,Evann Guessand,ci CIV,FW,24,8,360
+Aston Villa,Amadou Onana,be BEL,MF,24,5,325
+Aston Villa,Youri Tielemans,be BEL,MF,28,4,315
+Aston Villa,Emi Buendía,ar ARG,"FW,MF",28,8,357
+Aston Villa,Donyell Malen,nl NED,FW,26,9,299
+Aston Villa,Lamare Bogarde,nl NED,MF,21,6,281
+Aston Villa,Marco Bizot,nl NED,GK,34,2,180
+Aston Villa,Ian Maatsen,nl NED,DF,23,6,162
+Aston Villa,Harvey Elliott,eng ENG,"MF,FW",22,3,98
+Aston Villa,Jadon Sancho,eng ENG,FW,25,2,54
+Aston Villa,Ross Barkley,eng ENG,MF,31,3,33
+Aston Villa,Victor Lindelöf,se SWE,"MF,DF",31,3,24
+Aston Villa,Bradley Paul Burrowes,eng ENG,DF,17,1,17
+Aston Villa,Samuel Iling-Junior,eng ENG,"DF,MF",22,0,
+Aston Villa,Jamaldeen Jimoh,eng ENG,MF,19,0,
+Aston Villa,Travis Patterson,eng ENG,DF,20,0,
+Aston Villa,Sam Proctor,eng ENG,GK,18,0,
+Aston Villa,Triston Rowe,eng ENG,DF,19,0,
+Aston Villa,James Wright,eng ENG,GK,20,0,
+Aston Villa,Squad Total,,,28.4,9,810
+Aston Villa,Opponent Total,,,27.0,9,810
+Chelsea,João Pedro,br BRA,"FW,MF",24,9,758
+Chelsea,Robert Sánchez,es ESP,GK,27,9,724
+Chelsea,Pedro Neto,pt POR,FW,25,9,669
+Chelsea,Moisés Caicedo,ec ECU,MF,23,9,765
+Chelsea,Marc Cucurella,es ESP,DF,27,9,716
+Chelsea,Enzo Fernández,ar ARG,MF,24,8,708
+Chelsea,Trevoh Chalobah,eng ENG,DF,26,8,660
+Chelsea,Reece James,eng ENG,DF,25,9,605
+Chelsea,Malo Gusto,fr FRA,"DF,MF",22,7,401
+Chelsea,Joshua Acheampong,eng ENG,DF,19,5,349
+Chelsea,Estêvão Willian,br BRA,FW,18,8,310
+Chelsea,Tosin Adarabioyo,eng ENG,DF,28,6,379
+Chelsea,Alejandro Garnacho,ar ARG,FW,21,4,188
+Chelsea,Andrey Santos,br BRA,MF,21,7,225
+Chelsea,Jamie Gittens,eng ENG,FW,21,7,221
+Chelsea,Jorrel Hato,nl NED,DF,19,4,168
+Chelsea,Cole Palmer,eng ENG,MF,23,3,145
+Chelsea,Wesley Fofana,fr FRA,DF,24,3,130
+Chelsea,Liam Delap,eng ENG,FW,22,3,92
+Chelsea,Marc Guiu,es ESP,FW,19,3,136
+Chelsea,Roméo Lavia,be BEL,MF,21,3,93
+Chelsea,Benoît Badiashile,fr FRA,DF,24,2,66
+Chelsea,Facundo Buonanotte,ar ARG,MF,20,1,45
+Chelsea,Tyrique George,eng ENG,FW,19,4,145
+Chelsea,Filip Jørgensen,dk DEN,GK,23,1,84
+Chelsea,Landon Emenalo,eng ENG,MF,17,0,
+Chelsea,Dario Essugo,pt POR,MF,20,0,
+Chelsea,Gaga Slonina,us USA,GK,21,0,
+Chelsea,Squad Total,,,24.4,9,810
+Chelsea,Opponent Total,,,26.8,9,810
+Crystal Palace,Marc Guéhi,eng ENG,DF,25,9,810
+Crystal Palace,Dean Henderson,eng ENG,GK,28,9,810
+Crystal Palace,Maxence Lacroix,fr FRA,DF,25,9,810
+Crystal Palace,Chris Richards,us USA,DF,25,9,810
+Crystal Palace,Tyrick Mitchell,eng ENG,"DF,MF",26,9,809
+Crystal Palace,Daniel Muñoz,co COL,"DF,MF",29,9,809
+Crystal Palace,Jean-Philippe Mateta,fr FRA,FW,28,9,780
+Crystal Palace,Adam Wharton,eng ENG,MF,21,8,630
+Crystal Palace,Ismaila Sarr,sn SEN,"MF,FW",27,7,611
+Crystal Palace,Daichi Kamada,jp JPN,MF,29,7,598
+Crystal Palace,Yeremi Pino,es ESP,MF,23,7,429
+Crystal Palace,Will Hughes,eng ENG,MF,30,7,429
+Crystal Palace,Jefferson Lerma,co COL,MF,31,8,186
+Crystal Palace,Justin Devenny,nir NIR,"MF,FW",22,7,149
+Crystal Palace,Eberechi Eze,eng ENG,MF,27,1,83
+Crystal Palace,Eddie Nketiah,eng ENG,"MF,FW",26,5,112
+Crystal Palace,Romain Esse,eng ENG,FW,20,1,25
+Crystal Palace,Christantus Uche,ng NGA,MF,22,3,11
+Crystal Palace,Nathaniel Clyne,eng ENG,DF,34,1,5
+Crystal Palace,Odsonne Édouard,fr FRA,FW,27,1,3
+Crystal Palace,Borna Sosa,hr CRO,DF,27,1,1
+Crystal Palace,Walter Benítez,ar ARG,GK,32,0,
+Crystal Palace,Jaydee Canvot,fr FRA,MF,19,0,
+Crystal Palace,Rio Cardines,tt TRI,MF,19,0,
+Crystal Palace,Remi Matthews,eng ENG,GK,31,0,
+Crystal Palace,Jesurun Rak Sakyi,eng ENG,"FW,MF",23,0,
+Crystal Palace,Kaden Rodney,eng ENG,"DF,MF",21,0,
+Crystal Palace,Squad Total,,,26.8,9,810
+Crystal Palace,Opponent Total,,,26.6,9,810
+Brentford,Nathan Collins,ie IRL,DF,24,9,810
+Brentford,Sepp van den Berg,nl NED,DF,23,9,810
+Brentford,Caoimhín Kelleher,ie IRL,GK,26,9,810
+Brentford,Michael Kayode,it ITA,DF,21,9,796
+Brentford,Thiago,br BRA,FW,24,9,742
+Brentford,Yehor Yarmoliuk,ua UKR,MF,21,9,719
+Brentford,Kevin Schade,de GER,FW,23,9,740
+Brentford,Jordan Henderson,eng ENG,MF,35,9,655
+Brentford,Mikkel Damsgaard,dk DEN,MF,25,7,566
+Brentford,Dango Ouattara,bf BFA,FW,23,8,478
+Brentford,Keane Lewis-Potter,eng ENG,"DF,FW",24,8,426
+Brentford,Kristoffer Ajer,no NOR,DF,27,6,299
+Brentford,Mathias Jensen,dk DEN,MF,29,7,189
+Brentford,Aaron Hickey,sct SCO,DF,23,5,187
+Brentford,Ethan Pinnock,jm JAM,DF,32,2,155
+Brentford,Rico Henry,eng ENG,DF,28,7,173
+Brentford,Fabio Carvalho,pt POR,"FW,MF",23,5,97
+Brentford,Antoni Milambo,nl NED,MF,20,1,45
+Brentford,Vitaly Janelt,de GER,MF,27,5,121
+Brentford,Frank Onyeka,ng NGA,MF,27,6,92
+Brentford,Benjamin Arthur,eng ENG,DF,20,0,
+Brentford,Reiss Nelson,eng ENG,"FW,MF",25,0,
+Brentford,Myles Peart-Harris,eng ENG,MF,23,0,
+Brentford,Mads Roerslev,dk DEN,"DF,MF",26,0,
+Brentford,Hákon Valdimarsson,is ISL,GK,24,0,
+Brentford,Squad Total,,,25.4,9,810
+Brentford,Opponent Total,,,26.5,9,810
+Newcastle Utd,Dan Burn,eng ENG,DF,33,9,810
+Newcastle Utd,Nick Pope,eng ENG,GK,33,9,810
+Newcastle Utd,Bruno Guimarães,br BRA,MF,27,8,715
+Newcastle Utd,Sandro Tonali,it ITA,MF,25,9,704
+Newcastle Utd,Kieran Trippier,eng ENG,DF,35,8,609
+Newcastle Utd,Joelinton,br BRA,MF,29,7,534
+Newcastle Utd,Valentino Livramento,eng ENG,DF,22,6,526
+Newcastle Utd,Sven Botman,nl NED,DF,25,7,488
+Newcastle Utd,Nick Woltemade,de GER,FW,23,6,477
+Newcastle Utd,Anthony Gordon,eng ENG,FW,24,6,413
+Newcastle Utd,Malick Thiaw,de GER,DF,24,6,453
+Newcastle Utd,Jacob Murphy,eng ENG,"FW,MF",30,8,416
+Newcastle Utd,Anthony Elanga,se SWE,"FW,MF",23,9,389
+Newcastle Utd,Fabian Schär,ch SUI,DF,33,5,380
+Newcastle Utd,Harvey Barnes,eng ENG,FW,27,9,368
+Newcastle Utd,Lewis Miley,eng ENG,MF,19,7,274
+Newcastle Utd,William Osula,dk DEN,FW,22,9,174
+Newcastle Utd,Lewis Hall,eng ENG,DF,21,3,135
+Newcastle Utd,Joe Willock,eng ENG,MF,26,2,87
+Newcastle Utd,Jacob Ramsey,eng ENG,MF,24,3,81
+Newcastle Utd,Jamaal Lascelles,eng ENG,DF,31,2,21
+Newcastle Utd,Emil Krafth,se SWE,DF,31,0,
+Newcastle Utd,Aaron Ramsdale,eng ENG,GK,27,0,
+Newcastle Utd,Park Seungsoo,kr KOR,MF,18,0,
+Newcastle Utd,Squad Total,,,28.0,9,810
+Newcastle Utd,Opponent Total,,,26.9,9,810
+Brighton,Lewis Dunk,eng ENG,DF,33,9,810
+Brighton,Jan Paul van Hecke,nl NED,DF,25,9,810
+Brighton,Bart Verbruggen,nl NED,GK,23,9,810
+Brighton,Yankuba Minteh,gm GAM,FW,21,9,770
+Brighton,Carlos Baleba,cm CMR,MF,21,9,481
+Brighton,Yasin Ayari,se SWE,MF,22,9,693
+Brighton,Danny Welbeck,eng ENG,FW,34,9,547
+Brighton,Georginio Rutter,fr FRA,"FW,MF",23,8,515
+Brighton,Kaoru Mitoma,jp JPN,FW,28,6,508
+Brighton,Ferdi Kadioglu,tr TUR,"DF,FW",26,8,557
+Brighton,Mats Wieffer,nl NED,DF,25,7,461
+Brighton,Maxim De Cuyper,be BEL,DF,24,8,409
+Brighton,Diego Gómez,py PAR,MF,22,8,377
+Brighton,Joël Veltman,nl NED,DF,33,4,324
+Brighton,Brajan Gruda,de GER,"MF,FW",21,7,223
+Brighton,Matt O'Riley,dk DEN,MF,24,2,177
+Brighton,Jack Hinshelwood,eng ENG,MF,20,3,107
+Brighton,James Milner,eng ENG,MF,39,7,193
+Brighton,Stefanos Tzimas,gr GRE,"MF,FW",19,5,75
+Brighton,Tom Watson,eng ENG,FW,19,1,32
+Brighton,Diego Coppola,it ITA,DF,21,3,18
+Brighton,Charalampos Kostoulas,gr GRE,"MF,FW",18,2,13
+Brighton,Olivier Boscagli,fr FRA,DF,27,0,
+Brighton,Nehemiah Oriola,eng ENG,MF,18,0,
+Brighton,Jason Steele,eng ENG,GK,35,0,
+Brighton,Squad Total,,,26.1,9,810
+Brighton,Opponent Total,,,26.5,9,810
+Everton,James Garner,eng ENG,"MF,DF",24,9,810
+Everton,Jordan Pickford,eng ENG,GK,31,9,810
+Everton,James Tarkowski,eng ENG,DF,32,9,810
+Everton,Jake O'Brien,ie IRL,DF,24,9,785
+Everton,Michael Keane,eng ENG,DF,32,9,784
+Everton,Idrissa Gana Gueye,sn SEN,MF,36,9,769
+Everton,Iliman Ndiaye,sn SEN,FW,25,9,761
+Everton,Kiernan Dewsbury-Hall,eng ENG,MF,27,8,715
+Everton,Jack Grealish,eng ENG,FW,30,8,646
+Everton,Beto,gw GNB,FW,27,9,563
+Everton,Vitaliy Mykolenko,ua UKR,DF,26,6,535
+Everton,Tim Iroegbunam,eng ENG,MF,22,6,267
+Everton,Thierno Barry,fr FRA,FW,23,9,252
+Everton,Carlos Alcaraz,ar ARG,"FW,MF",22,7,239
+Everton,Tyler Dibling,eng ENG,FW,19,4,65
+Everton,Merlin Röhl,de GER,"MF,FW",23,3,71
+Everton,Dwight McNeil,eng ENG,"FW,MF",25,2,25
+Everton,Séamus Coleman,ie IRL,FW,37,2,2
+Everton,Harrison Armstrong,eng ENG,FW,18,1,1
+Everton,Adam Aznou,ma MAR,DF,19,0,
+Everton,Elijah Campbell,eng ENG,DF,21,0,
+Everton,Youssef Chermiti,pt POR,FW,21,0,
+Everton,Tom King,wls WAL,GK,30,0,
+Everton,Tyler Onyango,eng ENG,MF,22,0,
+Everton,Nathan Patterson,sct SCO,DF,24,0,
+Everton,Mark Travers,ie IRL,GK,26,0,
+Everton,Harry Tyrer,eng ENG,GK,23,0,
+Everton,Squad Total,,,28.5,9,810
+Everton,Opponent Total,,,26.7,9,810
+Leeds United,Joe Rodon,wls WAL,DF,28,9,810
+Leeds United,Jayden Bogle,eng ENG,DF,25,9,792
+Leeds United,Gabriel Gudmundsson,se SWE,DF,26,9,740
+Leeds United,Pascal Struijk,nl NED,DF,26,8,720
+Leeds United,Anton Stach,de GER,MF,26,8,678
+Leeds United,Sean Longstaff,eng ENG,MF,28,9,656
+Leeds United,Ethan Ampadu,wls WAL,MF,25,7,607
+Leeds United,Brenden Aaronson,us USA,FW,25,9,548
+Leeds United,Dominic Calvert-Lewin,eng ENG,FW,28,7,533
+Leeds United,Karl Darlow,wls WAL,GK,35,5,450
+Leeds United,Noah Okafor,ch SUI,FW,25,6,351
+Leeds United,Lucas Perri,br BRA,GK,27,4,360
+Leeds United,Ao Tanaka,jp JPN,MF,27,7,263
+Leeds United,Daniel James,wls WAL,FW,27,6,242
+Leeds United,Wilfried Gnonto,it ITA,FW,21,4,192
+Leeds United,Ilia Gruev,bg BUL,MF,25,5,213
+Leeds United,Joël Piroe,nl NED,"FW,MF",26,4,164
+Leeds United,Jack Harrison,eng ENG,FW,28,8,245
+Leeds United,Lukas Nmecha,de GER,FW,26,9,180
+Leeds United,Jaka Bijol,si SVN,DF,26,1,90
+Leeds United,James Justin,eng ENG,DF,27,4,68
+Leeds United,Sam Byram,eng ENG,DF,32,1,8
+Leeds United,Sebastiaan Bornauw,be BEL,DF,26,0,
+Leeds United,Harry Gray,eng ENG,FW,17,0,
+Leeds United,Illan Meslier,fr FRA,GK,25,0,
+Leeds United,Largie Ramazani,be BEL,"FW,MF",24,0,
+Leeds United,Squad Total,,,27.1,9,810
+Leeds United,Opponent Total,,,26.8,9,810
+Burnley,Martin Dúbravka,sk SVK,GK,36,9,810
+Burnley,Kyle Walker,eng ENG,DF,35,9,810
+Burnley,Quilindschy Hartman,nl NED,DF,23,9,807
+Burnley,Maxime Estève,fr FRA,DF,23,9,801
+Burnley,Josh Cullen,ie IRL,MF,29,9,770
+Burnley,Jaidon Anthony,eng ENG,"MF,FW",25,9,745
+Burnley,Lyle Foster,za RSA,FW,25,8,579
+Burnley,Hjalmar Ekdal,se SWE,DF,27,7,533
+Burnley,Josh Laurent,eng ENG,"DF,MF",30,9,486
+Burnley,Florentino Luís,pt POR,MF,26,6,477
+Burnley,Lesley Ugochukwu,fr FRA,MF,21,8,459
+Burnley,Jacob Bruun Larsen,dk DEN,"FW,MF",27,7,363
+Burnley,Loum Tchaouna,fr FRA,MF,22,8,345
+Burnley,Axel Tuanzebe,cd COD,DF,27,3,270
+Burnley,Hannibal Mejbri,tn TUN,MF,22,8,258
+Burnley,Zian Flemming,nl NED,"FW,MF",27,6,202
+Burnley,Oliver Sonne,pe PER,"DF,FW",24,3,104
+Burnley,Armando Broja,al ALB,FW,24,3,45
+Burnley,Joe Worrall,eng ENG,DF,28,4,22
+Burnley,Ashley Barnes,eng ENG,FW,36,1,8
+Burnley,Marcus Edwards,eng ENG,FW,26,1,6
+Burnley,Bashir Humphreys,eng ENG,DF,22,1,3
+Burnley,Lucas,br BRA,DF,24,0,
+Burnley,Aaron Ramsey,eng ENG,MF,22,0,
+Burnley,Max Weiß,de GER,GK,21,0,
+Burnley,Squad Total,,,27.6,9,810
+Burnley,Opponent Total,,,26.4,9,810
+Fulham,Bernd Leno,de GER,GK,33,9,810
+Fulham,Sander Berge,no NOR,MF,27,9,778
+Fulham,Alex Iwobi,ng NGA,"FW,MF",29,9,720
+Fulham,Calvin Bassey,ng NGA,DF,25,9,729
+Fulham,Joachim Andersen,dk DEN,DF,29,8,671
+Fulham,Ryan Sessegnon,eng ENG,DF,25,8,656
+Fulham,Saša Lukić,rs SRB,MF,29,8,631
+Fulham,Joshua King,eng ENG,"MF,FW",18,9,545
+Fulham,Kenny Tete,nl NED,DF,30,6,539
+Fulham,Harry Wilson,wls WAL,"FW,MF",28,8,520
+Fulham,Timothy Castagne,be BEL,"DF,FW",29,7,398
+Fulham,Raúl Jiménez,mx MEX,FW,34,8,324
+Fulham,Rodrigo Muniz,br BRA,FW,24,5,316
+Fulham,Issa Diop,fr FRA,DF,28,3,224
+Fulham,Jorge Cuenca,es ESP,DF,25,3,169
+Fulham,Adama Traoré,es ESP,FW,29,7,232
+Fulham,Emile Smith Rowe,eng ENG,MF,25,9,203
+Fulham,Tom Cairney,sct SCO,MF,34,6,184
+Fulham,Kevin,br BRA,"FW,MF",22,6,161
+Fulham,Antonee Robinson,us USA,DF,28,3,64
+Fulham,Samuel Chukwueze,ng NGA,"FW,MF",26,2,35
+Fulham,Jonah Kusi-Asare,se SWE,FW,18,1,1
+Fulham,Samuel Amissah,eng ENG,DF,18,0,
+Fulham,Benjamin Lecomte,fr FRA,GK,34,0,
+Fulham,Andreas Pereira,br BRA,MF,29,0,
+Fulham,Harrison Reed,eng ENG,MF,30,0,
+Fulham,Squad Total,,,28.2,9,810
+Fulham,Opponent Total,,,26.4,9,810
+Nott'ham Forest,Elliot Anderson,eng ENG,MF,22,9,810
+Nott'ham Forest,Nikola Milenković,rs SRB,DF,28,9,810
+Nott'ham Forest,Matz Sels,be BEL,GK,33,9,810
+Nott'ham Forest,Neco Williams,wls WAL,"DF,MF",24,9,810
+Nott'ham Forest,Morgan Gibbs-White,eng ENG,"MF,FW",25,9,729
+Nott'ham Forest,Dan Ndoye,ch SUI,FW,25,8,574
+Nott'ham Forest,Chris Wood,nz NZL,FW,33,8,540
+Nott'ham Forest,Murillo,br BRA,DF,23,6,469
+Nott'ham Forest,Callum Hudson-Odoi,eng ENG,FW,24,9,481
+Nott'ham Forest,Ibrahim Sangaré,ci CIV,MF,27,6,442
+Nott'ham Forest,Morato,br BRA,DF,24,5,436
+Nott'ham Forest,Ola Aina,ng NGA,DF,29,3,270
+Nott'ham Forest,Oleksandr Zinchenko,ua UKR,DF,28,3,253
+Nott'ham Forest,Douglas Luiz,br BRA,MF,27,3,172
+Nott'ham Forest,Nicolò Savona,it ITA,"DF,MF",22,4,251
+Nott'ham Forest,Dilane Bakwa,fr FRA,"FW,MF",23,4,174
+Nott'ham Forest,Igor Jesus,br BRA,"FW,MF",24,8,196
+Nott'ham Forest,Ryan Yates,eng ENG,MF,27,5,136
+Nott'ham Forest,James Mcatee,eng ENG,"MF,FW",23,4,129
+Nott'ham Forest,Taiwo Awoniyi,ng NGA,FW,28,2,90
+Nott'ham Forest,Jair Cunha,br BRA,DF,20,1,90
+Nott'ham Forest,Nicolás Domínguez,ar ARG,"MF,FW",27,2,53
+Nott'ham Forest,Omari Hutchinson,eng ENG,"FW,MF",22,5,102
+Nott'ham Forest,Arnaud Kalimuendo,fr FRA,FW,23,6,71
+Nott'ham Forest,Jota Silva,pt POR,FW,26,1,12
+Nott'ham Forest,Zach Abbott,eng ENG,DF,19,0,
+Nott'ham Forest,Willy Boly,ci CIV,DF,34,0,
+Nott'ham Forest,Angus Gunn,sct SCO,GK,29,0,
+Nott'ham Forest,John,br BRA,GK,29,0,
+Nott'ham Forest,Squad Total,,,26.6,9,810
+Nott'ham Forest,Opponent Total,,,26.0,9,810
+West Ham,Jarrod Bowen,eng ENG,"FW,MF",28,9,810
+West Ham,Max Kilman,eng ENG,DF,28,9,810
+West Ham,Lucas Paquetá,br BRA,"MF,FW",28,9,786
+West Ham,El Hadji Malick Diouf,sn SEN,DF,20,9,765
+West Ham,Crysencio Summerville,nl NED,"MF,FW",24,7,480
+West Ham,Mateus Fernandes,pt POR,"MF,FW",21,7,469
+West Ham,Konstantinos Mavropanos,gr GRE,DF,27,6,495
+West Ham,Alphonse Areola,fr FRA,GK,32,5,450
+West Ham,Kyle Walker-Peters,eng ENG,DF,28,8,450
+West Ham,James Ward-Prowse,eng ENG,MF,30,5,413
+West Ham,Niclas Füllkrug,de GER,FW,32,6,379
+West Ham,Tomáš Souček,cz CZE,MF,30,6,366
+West Ham,Aaron Wan-Bissaka,cd COD,DF,27,5,381
+West Ham,Mads Hermansen,dk DEN,GK,25,4,360
+West Ham,Jean-Clair Todibo,fr FRA,DF,25,4,306
+West Ham,Nayef Aguerd,ma MAR,DF,29,2,180
+West Ham,Soungoutou Magassa,fr FRA,MF,22,5,173
+West Ham,Andy Irving,sct SCO,MF,25,6,150
+West Ham,Oliver Scarles,eng ENG,"DF,MF",19,2,69
+West Ham,Callum Wilson,eng ENG,FW,33,6,239
+West Ham,Guido Rodríguez,ar ARG,MF,31,2,90
+West Ham,Freddie Potts,eng ENG,MF,22,4,134
+West Ham,Callum Marshall,nir NIR,FW,20,2,60
+West Ham,Luis Guilherme,br BRA,"FW,MF",19,3,57
+West Ham,Igor,br BRA,DF,27,1,1
+West Ham,Edson Álvarez,mx MEX,"DF,MF",28,0,
+West Ham,Łukasz Fabiański,pl POL,GK,40,0,
+West Ham,Squad Total,,,27.3,9,810
+West Ham,Opponent Total,,,26.2,9,810
+Wolves,João Gomes,br BRA,MF,24,9,700
+Wolves,Marshall Munetsi,zw ZIM,"MF,FW",29,9,693
+Wolves,André,br BRA,MF,24,9,600
+Wolves,Hugo Bueno,es ESP,"DF,MF",23,9,614
+Wolves,Jørgen Strand Larsen,no NOR,FW,25,7,542
+Wolves,Ladislav Krejčí,cz CZE,"DF,MF",26,6,540
+Wolves,Jhon Arias,co COL,FW,28,9,502
+Wolves,Emmanuel Agbadou,ci CIV,DF,28,7,526
+Wolves,Santiago Bueno,uy URU,DF,26,6,485
+Wolves,Sam Johnstone,eng ENG,GK,32,5,450
+Wolves,Toti Gomes,pt POR,DF,26,6,390
+Wolves,José Sá,pt POR,GK,32,4,360
+Wolves,Jean-Ricner Bellegarde,ht HAI,"MF,FW",27,8,345
+Wolves,Rodrigo Gomes,pt POR,"FW,DF",22,6,331
+Wolves,Hwang Hee-chan,kr KOR,FW,29,7,300
+Wolves,Matt Doherty,ie IRL,DF,33,4,291
+Wolves,Jackson Tchatchoua,cm CMR,"DF,MF",24,8,387
+Wolves,Ki-Jana Hoever,nl NED,"DF,MF",23,4,205
+Wolves,Tolu Arokodare,ng NGA,FW,24,6,184
+Wolves,David Møller Wolfe,no NOR,"MF,DF",23,5,151
+Wolves,Yerson Mosquera,co COL,DF,24,3,137
+Wolves,Fer López,es ESP,"MF,FW",21,5,120
+Wolves,Sasa Kalajdzic,at AUT,FW,28,1,15
+Wolves,Daniel Bentley,eng ENG,GK,32,0,
+Wolves,Squad Total,,,26.8,9,810
+Wolves,Opponent Total,,,26.9,9,810

@@ -1,0 +1,853 @@
+equipe,date,domicile_exterieur,adversaire,resultat,buts_pour,buts_contre
+Arsenal,2025-08-23,Home,Leeds United,W,5,0
+Arsenal,2025-08-31,Away,Liverpool,L,0,1
+Arsenal,2025-09-13,Home,Nott'ham Forest,W,3,0
+Arsenal,2025-09-16,Away,es Athletic Club,W,2,0
+Arsenal,2025-09-21,Home,Manchester City,D,1,1
+Arsenal,2025-09-24,Away,Port Vale,W,2,0
+Arsenal,2025-09-28,Away,Newcastle Utd,W,2,1
+Arsenal,2025-10-01,Home,gr Olympiacos,W,2,0
+Arsenal,2025-10-04,Home,West Ham,W,2,0
+Arsenal,2025-10-18,Away,Fulham,W,1,0
+Arsenal,2025-10-21,Home,es Atlético Madrid,W,4,0
+Arsenal,2025-10-26,Home,Crystal Palace,W,1,0
+Arsenal,2025-10-29,Home,Brighton,W,2,0
+Arsenal,2025-11-01,Away,Burnley,,,
+Arsenal,2025-11-04,Away,cz Slavia Prague,,,
+Arsenal,2025-11-08,Away,Sunderland,,,
+Arsenal,2025-11-23,Home,Tottenham,,,
+Arsenal,2025-11-26,Home,de Bayern Munich,,,
+Arsenal,2025-11-30,Away,Chelsea,,,
+Arsenal,2025-12-03,Home,Brentford,,,
+Arsenal,2025-12-06,Away,Aston Villa,,,
+Arsenal,2025-12-10,Away,be Club Brugge,,,
+Arsenal,2025-12-13,Home,Wolves,,,
+Arsenal,2025-12-21,Away,Everton,,,
+Arsenal,2025-12-27,Home,Brighton,,,
+Arsenal,2025-12-30,Home,Aston Villa,,,
+Arsenal,2026-01-03,Away,Bournemouth,,,
+Arsenal,2026-01-07,Home,Liverpool,,,
+Arsenal,2026-01-17,Away,Nott'ham Forest,,,
+Arsenal,2026-01-20,Away,it Inter,,,
+Arsenal,2026-01-24,Home,Manchester Utd,,,
+Arsenal,2026-01-28,Home,kz Qaırat Almaty,,,
+Arsenal,2026-01-31,Away,Leeds United,,,
+Arsenal,2026-02-07,Home,Sunderland,,,
+Arsenal,2026-02-11,Away,Brentford,,,
+Arsenal,2026-02-21,Away,Tottenham,,,
+Arsenal,2026-02-28,Home,Chelsea,,,
+Arsenal,2026-03-04,Away,Brighton,,,
+Arsenal,2026-03-14,Home,Everton,,,
+Arsenal,2026-03-21,Away,Wolves,,,
+Arsenal,2026-04-11,Home,Bournemouth,,,
+Arsenal,2026-04-18,Away,Manchester City,,,
+Arsenal,2026-04-25,Home,Newcastle Utd,,,
+Arsenal,2026-05-02,Home,Fulham,,,
+Arsenal,2026-05-09,Away,West Ham,,,
+Arsenal,2026-05-17,Home,Burnley,,,
+Arsenal,2026-05-24,Away,Crystal Palace,,,
+Bournemouth,2025-08-23,Home,Wolves,W,1,0
+Bournemouth,2025-08-26,Home,Brentford,L,0,2
+Bournemouth,2025-08-30,Away,Tottenham,W,1,0
+Bournemouth,2025-09-13,Home,Brighton,W,2,1
+Bournemouth,2025-09-21,Home,Newcastle Utd,D,0,0
+Bournemouth,2025-09-27,Away,Leeds United,D,2,2
+Bournemouth,2025-10-03,Home,Fulham,W,3,1
+Bournemouth,2025-10-18,Away,Crystal Palace,D,3,3
+Bournemouth,2025-10-26,Home,Nott'ham Forest,W,2,0
+Bournemouth,2025-11-02,Away,Manchester City,,,
+Bournemouth,2025-11-09,Away,Aston Villa,,,
+Bournemouth,2025-11-22,Home,West Ham,,,
+Bournemouth,2025-11-29,Away,Sunderland,,,
+Bournemouth,2025-12-02,Home,Everton,,,
+Bournemouth,2025-12-06,Home,Chelsea,,,
+Bournemouth,2025-12-15,Away,Manchester Utd,,,
+Bournemouth,2025-12-20,Home,Burnley,,,
+Bournemouth,2025-12-27,Away,Brentford,,,
+Bournemouth,2025-12-30,Away,Chelsea,,,
+Bournemouth,2026-01-03,Home,Arsenal,,,
+Bournemouth,2026-01-07,Home,Tottenham,,,
+Bournemouth,2026-01-17,Away,Brighton,,,
+Bournemouth,2026-01-24,Home,Liverpool,,,
+Bournemouth,2026-01-31,Away,Wolves,,,
+Bournemouth,2026-02-07,Home,Aston Villa,,,
+Bournemouth,2026-02-11,Away,Everton,,,
+Bournemouth,2026-02-21,Away,West Ham,,,
+Bournemouth,2026-02-28,Home,Sunderland,,,
+Bournemouth,2026-03-04,Home,Brentford,,,
+Bournemouth,2026-03-14,Away,Burnley,,,
+Bournemouth,2026-03-21,Home,Manchester Utd,,,
+Bournemouth,2026-04-11,Away,Arsenal,,,
+Bournemouth,2026-04-18,Away,Newcastle Utd,,,
+Bournemouth,2026-04-25,Home,Leeds United,,,
+Bournemouth,2026-05-02,Home,Crystal Palace,,,
+Bournemouth,2026-05-09,Away,Fulham,,,
+Bournemouth,2026-05-17,Home,Manchester City,,,
+Bournemouth,2026-05-24,Away,Nott'ham Forest,,,
+Tottenham,2025-08-16,Home,Burnley,W,3,0
+Tottenham,2025-08-23,Away,Manchester City,W,2,0
+Tottenham,2025-08-30,Home,Bournemouth,L,0,1
+Tottenham,2025-09-13,Away,West Ham,W,3,0
+Tottenham,2025-09-16,Home,es Villarreal,W,1,0
+Tottenham,2025-09-20,Away,Brighton,D,2,2
+Tottenham,2025-09-24,Home,Doncaster,W,3,0
+Tottenham,2025-09-27,Home,Wolves,D,1,1
+Tottenham,2025-09-30,Away,no Bodø/Glimt,D,2,2
+Tottenham,2025-10-04,Away,Leeds United,W,2,1
+Tottenham,2025-10-19,Home,Aston Villa,L,1,2
+Tottenham,2025-10-22,Away,fr Monaco,D,0,0
+Tottenham,2025-10-26,Away,Everton,W,3,0
+Tottenham,2025-10-29,Away,Newcastle Utd,L,0,2
+Tottenham,2025-11-01,Home,Chelsea,,,
+Tottenham,2025-11-04,Home,dk FC Copenhagen,,,
+Tottenham,2025-11-08,Home,Manchester Utd,,,
+Tottenham,2025-11-23,Away,Arsenal,,,
+Tottenham,2025-11-26,Away,fr Paris S-G,,,
+Tottenham,2025-11-29,Home,Fulham,,,
+Tottenham,2025-12-02,Away,Newcastle Utd,,,
+Tottenham,2025-12-06,Home,Brentford,,,
+Tottenham,2025-12-09,Home,cz Slavia Prague,,,
+Tottenham,2025-12-14,Away,Nott'ham Forest,,,
+Tottenham,2025-12-20,Home,Liverpool,,,
+Tottenham,2025-12-27,Away,Crystal Palace,,,
+Tottenham,2025-12-30,Away,Brentford,,,
+Tottenham,2026-01-03,Home,Sunderland,,,
+Tottenham,2026-01-07,Away,Bournemouth,,,
+Tottenham,2026-01-17,Home,West Ham,,,
+Tottenham,2026-01-20,Home,de Dortmund,,,
+Tottenham,2026-01-24,Away,Burnley,,,
+Tottenham,2026-01-28,Away,de Eint Frankfurt,,,
+Tottenham,2026-01-31,Home,Manchester City,,,
+Tottenham,2026-02-07,Away,Manchester Utd,,,
+Tottenham,2026-02-11,Home,Newcastle Utd,,,
+Tottenham,2026-02-21,Home,Arsenal,,,
+Tottenham,2026-02-28,Away,Fulham,,,
+Tottenham,2026-03-04,Home,Crystal Palace,,,
+Tottenham,2026-03-14,Away,Liverpool,,,
+Tottenham,2026-03-21,Home,Nott'ham Forest,,,
+Tottenham,2026-04-11,Away,Sunderland,,,
+Tottenham,2026-04-18,Home,Brighton,,,
+Tottenham,2026-04-25,Away,Wolves,,,
+Tottenham,2026-05-02,Away,Aston Villa,,,
+Tottenham,2026-05-09,Home,Leeds United,,,
+Tottenham,2026-05-17,Away,Chelsea,,,
+Tottenham,2026-05-24,Home,Everton,,,
+Sunderland,2025-08-23,Away,Burnley,L,0,2
+Sunderland,2025-08-26,Home,Huddersfield,D,1 (5),1 (6)
+Sunderland,2025-08-30,Home,Brentford,W,2,1
+Sunderland,2025-09-13,Away,Crystal Palace,D,0,0
+Sunderland,2025-09-21,Home,Aston Villa,D,1,1
+Sunderland,2025-09-27,Away,Nott'ham Forest,W,1,0
+Sunderland,2025-10-04,Away,Manchester Utd,L,0,2
+Sunderland,2025-10-18,Home,Wolves,W,2,0
+Sunderland,2025-10-25,Away,Chelsea,W,2,1
+Sunderland,2025-11-03,Home,Everton,,,
+Sunderland,2025-11-08,Home,Arsenal,,,
+Sunderland,2025-11-22,Away,Fulham,,,
+Sunderland,2025-11-29,Home,Bournemouth,,,
+Sunderland,2025-12-03,Away,Liverpool,,,
+Sunderland,2025-12-06,Away,Manchester City,,,
+Sunderland,2025-12-14,Home,Newcastle Utd,,,
+Sunderland,2025-12-20,Away,Brighton,,,
+Sunderland,2025-12-27,Home,Leeds United,,,
+Sunderland,2025-12-30,Home,Manchester City,,,
+Sunderland,2026-01-03,Away,Tottenham,,,
+Sunderland,2026-01-07,Away,Brentford,,,
+Sunderland,2026-01-17,Home,Crystal Palace,,,
+Sunderland,2026-01-24,Away,West Ham,,,
+Sunderland,2026-01-31,Home,Burnley,,,
+Sunderland,2026-02-07,Away,Arsenal,,,
+Sunderland,2026-02-11,Home,Liverpool,,,
+Sunderland,2026-02-21,Home,Fulham,,,
+Sunderland,2026-02-28,Away,Bournemouth,,,
+Sunderland,2026-03-04,Away,Leeds United,,,
+Sunderland,2026-03-14,Home,Brighton,,,
+Sunderland,2026-03-21,Away,Newcastle Utd,,,
+Sunderland,2026-04-11,Home,Tottenham,,,
+Sunderland,2026-04-18,Away,Aston Villa,,,
+Sunderland,2026-04-25,Home,Nott'ham Forest,,,
+Sunderland,2026-05-02,Away,Wolves,,,
+Sunderland,2026-05-09,Home,Manchester Utd,,,
+Sunderland,2026-05-17,Away,Everton,,,
+Sunderland,2026-05-24,Home,Chelsea,,,
+Manchester City,2025-08-23,Home,Tottenham,L,0,2
+Manchester City,2025-08-31,Away,Brighton,L,1,2
+Manchester City,2025-09-14,Home,Manchester Utd,W,3,0
+Manchester City,2025-09-18,Home,it Napoli,W,2,0
+Manchester City,2025-09-21,Away,Arsenal,D,1,1
+Manchester City,2025-09-24,Away,Huddersfield,W,2,0
+Manchester City,2025-09-27,Home,Burnley,W,5,1
+Manchester City,2025-10-01,Away,fr Monaco,D,2,2
+Manchester City,2025-10-05,Away,Brentford,W,1,0
+Manchester City,2025-10-18,Home,Everton,W,2,0
+Manchester City,2025-10-21,Away,es Villarreal,W,2,0
+Manchester City,2025-10-26,Away,Aston Villa,L,0,1
+Manchester City,2025-10-29,Away,Swansea City,W,3,1
+Manchester City,2025-11-02,Home,Bournemouth,,,
+Manchester City,2025-11-05,Home,de Dortmund,,,
+Manchester City,2025-11-09,Home,Liverpool,,,
+Manchester City,2025-11-22,Away,Newcastle Utd,,,
+Manchester City,2025-11-25,Home,de Leverkusen,,,
+Manchester City,2025-11-29,Home,Leeds United,,,
+Manchester City,2025-12-02,Away,Fulham,,,
+Manchester City,2025-12-06,Home,Sunderland,,,
+Manchester City,2025-12-10,Away,es Real Madrid,,,
+Manchester City,2025-12-14,Away,Crystal Palace,,,
+Manchester City,2025-12-20,Home,West Ham,,,
+Manchester City,2025-12-27,Away,Nott'ham Forest,,,
+Manchester City,2025-12-30,Away,Sunderland,,,
+Manchester City,2026-01-03,Home,Chelsea,,,
+Manchester City,2026-01-07,Home,Brighton,,,
+Manchester City,2026-01-17,Away,Manchester Utd,,,
+Manchester City,2026-01-20,Away,no Bodø/Glimt,,,
+Manchester City,2026-01-24,Home,Wolves,,,
+Manchester City,2026-01-28,Home,tr Galatasaray,,,
+Manchester City,2026-01-31,Away,Tottenham,,,
+Manchester City,2026-02-07,Away,Liverpool,,,
+Manchester City,2026-02-11,Home,Fulham,,,
+Manchester City,2026-02-21,Home,Newcastle Utd,,,
+Manchester City,2026-02-28,Away,Leeds United,,,
+Manchester City,2026-03-04,Home,Nott'ham Forest,,,
+Manchester City,2026-03-14,Away,West Ham,,,
+Manchester City,2026-03-21,Home,Crystal Palace,,,
+Manchester City,2026-04-11,Away,Chelsea,,,
+Manchester City,2026-04-18,Home,Arsenal,,,
+Manchester City,2026-04-25,Away,Burnley,,,
+Manchester City,2026-05-02,Away,Everton,,,
+Manchester City,2026-05-09,Home,Brentford,,,
+Manchester City,2026-05-17,Away,Bournemouth,,,
+Manchester City,2026-05-24,Home,Aston Villa,,,
+Manchester Utd,2025-08-24,Away,Fulham,D,1,1
+Manchester Utd,2025-08-27,Away,Grimsby Town,D,2 (11),2 (12)
+Manchester Utd,2025-08-30,Home,Burnley,W,3,2
+Manchester Utd,2025-09-14,Away,Manchester City,L,0,3
+Manchester Utd,2025-09-20,Home,Chelsea,W,2,1
+Manchester Utd,2025-09-27,Away,Brentford,L,1,3
+Manchester Utd,2025-10-04,Home,Sunderland,W,2,0
+Manchester Utd,2025-10-19,Away,Liverpool,W,2,1
+Manchester Utd,2025-10-25,Home,Brighton,W,4,2
+Manchester Utd,2025-11-01,Away,Nott'ham Forest,,,
+Manchester Utd,2025-11-08,Away,Tottenham,,,
+Manchester Utd,2025-11-24,Home,Everton,,,
+Manchester Utd,2025-11-30,Away,Crystal Palace,,,
+Manchester Utd,2025-12-04,Home,West Ham,,,
+Manchester Utd,2025-12-08,Away,Wolves,,,
+Manchester Utd,2025-12-15,Home,Bournemouth,,,
+Manchester Utd,2025-12-21,Away,Aston Villa,,,
+Manchester Utd,2025-12-27,Home,Newcastle Utd,,,
+Manchester Utd,2025-12-30,Home,Wolves,,,
+Manchester Utd,2026-01-03,Away,Leeds United,,,
+Manchester Utd,2026-01-07,Away,Burnley,,,
+Manchester Utd,2026-01-17,Home,Manchester City,,,
+Manchester Utd,2026-01-24,Away,Arsenal,,,
+Manchester Utd,2026-01-31,Home,Fulham,,,
+Manchester Utd,2026-02-07,Home,Tottenham,,,
+Manchester Utd,2026-02-11,Away,West Ham,,,
+Manchester Utd,2026-02-21,Away,Everton,,,
+Manchester Utd,2026-02-28,Home,Crystal Palace,,,
+Manchester Utd,2026-03-04,Away,Newcastle Utd,,,
+Manchester Utd,2026-03-14,Home,Aston Villa,,,
+Manchester Utd,2026-03-21,Away,Bournemouth,,,
+Manchester Utd,2026-04-11,Home,Leeds United,,,
+Manchester Utd,2026-04-18,Away,Chelsea,,,
+Manchester Utd,2026-04-25,Home,Brentford,,,
+Manchester Utd,2026-05-02,Home,Liverpool,,,
+Manchester Utd,2026-05-09,Away,Sunderland,,,
+Manchester Utd,2026-05-17,Home,Nott'ham Forest,,,
+Manchester Utd,2026-05-24,Away,Brighton,,,
+Liverpool,2025-08-15,Home,Bournemouth,W,4,2
+Liverpool,2025-08-25,Away,Newcastle Utd,W,3,2
+Liverpool,2025-08-31,Home,Arsenal,W,1,0
+Liverpool,2025-09-14,Away,Burnley,W,1,0
+Liverpool,2025-09-17,Home,es Atlético Madrid,W,3,2
+Liverpool,2025-09-20,Home,Everton,W,2,1
+Liverpool,2025-09-23,Home,Southampton,W,2,1
+Liverpool,2025-09-27,Away,Crystal Palace,L,1,2
+Liverpool,2025-09-30,Away,tr Galatasaray,L,0,1
+Liverpool,2025-10-04,Away,Chelsea,L,1,2
+Liverpool,2025-10-19,Home,Manchester Utd,L,1,2
+Liverpool,2025-10-22,Away,de Eint Frankfurt,W,5,1
+Liverpool,2025-10-25,Away,Brentford,L,2,3
+Liverpool,2025-10-29,Home,Crystal Palace,L,0,3
+Liverpool,2025-11-01,Home,Aston Villa,,,
+Liverpool,2025-11-04,Home,es Real Madrid,,,
+Liverpool,2025-11-09,Away,Manchester City,,,
+Liverpool,2025-11-22,Home,Nott'ham Forest,,,
+Liverpool,2025-11-26,Home,nl PSV Eindhoven,,,
+Liverpool,2025-11-30,Away,West Ham,,,
+Liverpool,2025-12-03,Home,Sunderland,,,
+Liverpool,2025-12-06,Away,Leeds United,,,
+Liverpool,2025-12-09,Away,it Inter,,,
+Liverpool,2025-12-13,Home,Brighton,,,
+Liverpool,2025-12-20,Away,Tottenham,,,
+Liverpool,2025-12-27,Home,Wolves,,,
+Liverpool,2025-12-30,Home,Leeds United,,,
+Liverpool,2026-01-03,Away,Fulham,,,
+Liverpool,2026-01-07,Away,Arsenal,,,
+Liverpool,2026-01-17,Home,Burnley,,,
+Liverpool,2026-01-21,Away,fr Marseille,,,
+Liverpool,2026-01-24,Away,Bournemouth,,,
+Liverpool,2026-01-28,Home,az Qarabağ,,,
+Liverpool,2026-01-31,Home,Newcastle Utd,,,
+Liverpool,2026-02-07,Home,Manchester City,,,
+Liverpool,2026-02-11,Away,Sunderland,,,
+Liverpool,2026-02-21,Away,Nott'ham Forest,,,
+Liverpool,2026-02-28,Home,West Ham,,,
+Liverpool,2026-03-04,Away,Wolves,,,
+Liverpool,2026-03-14,Home,Tottenham,,,
+Liverpool,2026-03-21,Away,Brighton,,,
+Liverpool,2026-04-11,Home,Fulham,,,
+Liverpool,2026-04-18,Away,Everton,,,
+Liverpool,2026-04-25,Home,Crystal Palace,,,
+Liverpool,2026-05-02,Away,Manchester Utd,,,
+Liverpool,2026-05-09,Home,Chelsea,,,
+Liverpool,2026-05-17,Away,Aston Villa,,,
+Liverpool,2026-05-24,Home,Brentford,,,
+Aston Villa,2025-08-23,Away,Brentford,L,0,1
+Aston Villa,2025-08-31,Home,Crystal Palace,L,0,3
+Aston Villa,2025-09-13,Away,Everton,D,0,0
+Aston Villa,2025-09-16,Away,Brentford,D,1 (2),1 (4)
+Aston Villa,2025-09-21,Away,Sunderland,D,1,1
+Aston Villa,2025-09-25,Home,it Bologna,W,1,0
+Aston Villa,2025-09-28,Home,Fulham,W,3,1
+Aston Villa,2025-10-02,Away,nl Feyenoord,W,2,0
+Aston Villa,2025-10-05,Home,Burnley,W,2,1
+Aston Villa,2025-10-19,Away,Tottenham,W,2,1
+Aston Villa,2025-10-23,Away,nl Go Ahead Eag,L,1,2
+Aston Villa,2025-10-26,Home,Manchester City,W,1,0
+Aston Villa,2025-11-01,Away,Liverpool,,,
+Aston Villa,2025-11-06,Home,il Maccabi Tel Aviv,,,
+Aston Villa,2025-11-09,Home,Bournemouth,,,
+Aston Villa,2025-11-23,Away,Leeds United,,,
+Aston Villa,2025-11-27,Home,ch Young Boys,,,
+Aston Villa,2025-11-30,Home,Wolves,,,
+Aston Villa,2025-12-03,Away,Brighton,,,
+Aston Villa,2025-12-06,Home,Arsenal,,,
+Aston Villa,2025-12-11,Away,ch Basel,,,
+Aston Villa,2025-12-14,Away,West Ham,,,
+Aston Villa,2025-12-21,Home,Manchester Utd,,,
+Aston Villa,2025-12-27,Away,Chelsea,,,
+Aston Villa,2025-12-30,Away,Arsenal,,,
+Aston Villa,2026-01-03,Home,Nott'ham Forest,,,
+Aston Villa,2026-01-07,Away,Crystal Palace,,,
+Aston Villa,2026-01-17,Home,Everton,,,
+Aston Villa,2026-01-22,Away,tr Fenerbahçe,,,
+Aston Villa,2026-01-24,Away,Newcastle Utd,,,
+Aston Villa,2026-01-29,Home,at RB Salzburg,,,
+Aston Villa,2026-01-31,Home,Brentford,,,
+Aston Villa,2026-02-07,Away,Bournemouth,,,
+Aston Villa,2026-02-11,Home,Brighton,,,
+Aston Villa,2026-02-21,Home,Leeds United,,,
+Aston Villa,2026-02-28,Away,Wolves,,,
+Aston Villa,2026-03-04,Home,Chelsea,,,
+Aston Villa,2026-03-14,Away,Manchester Utd,,,
+Aston Villa,2026-03-21,Home,West Ham,,,
+Aston Villa,2026-04-11,Away,Nott'ham Forest,,,
+Aston Villa,2026-04-18,Home,Sunderland,,,
+Aston Villa,2026-04-25,Away,Fulham,,,
+Aston Villa,2026-05-02,Home,Tottenham,,,
+Aston Villa,2026-05-09,Away,Burnley,,,
+Aston Villa,2026-05-17,Home,Liverpool,,,
+Aston Villa,2026-05-24,Away,Manchester City,,,
+Chelsea,2025-08-22,Away,West Ham,W,5,1
+Chelsea,2025-08-30,Home,Fulham,W,2,0
+Chelsea,2025-09-13,Away,Brentford,D,2,2
+Chelsea,2025-09-17,Away,de Bayern Munich,L,1,3
+Chelsea,2025-09-20,Away,Manchester Utd,L,1,2
+Chelsea,2025-09-23,Away,Lincoln City,W,2,1
+Chelsea,2025-09-27,Home,Brighton,L,1,3
+Chelsea,2025-09-30,Home,pt Benfica,W,1,0
+Chelsea,2025-10-04,Home,Liverpool,W,2,1
+Chelsea,2025-10-18,Away,Nott'ham Forest,W,3,0
+Chelsea,2025-10-22,Home,nl Ajax,W,5,1
+Chelsea,2025-10-25,Home,Sunderland,L,1,2
+Chelsea,2025-10-29,Away,Wolves,W,4,3
+Chelsea,2025-11-01,Away,Tottenham,,,
+Chelsea,2025-11-05,Away,az Qarabağ,,,
+Chelsea,2025-11-08,Home,Wolves,,,
+Chelsea,2025-11-22,Away,Burnley,,,
+Chelsea,2025-11-25,Home,es Barcelona,,,
+Chelsea,2025-11-30,Home,Arsenal,,,
+Chelsea,2025-12-03,Away,Leeds United,,,
+Chelsea,2025-12-06,Away,Bournemouth,,,
+Chelsea,2025-12-09,Away,it Atalanta,,,
+Chelsea,2025-12-13,Home,Everton,,,
+Chelsea,2025-12-20,Away,Newcastle Utd,,,
+Chelsea,2025-12-27,Home,Aston Villa,,,
+Chelsea,2025-12-30,Home,Bournemouth,,,
+Chelsea,2026-01-03,Away,Manchester City,,,
+Chelsea,2026-01-07,Away,Fulham,,,
+Chelsea,2026-01-17,Home,Brentford,,,
+Chelsea,2026-01-21,Home,cy Pafos FC,,,
+Chelsea,2026-01-24,Away,Crystal Palace,,,
+Chelsea,2026-01-28,Away,it Napoli,,,
+Chelsea,2026-01-31,Home,West Ham,,,
+Chelsea,2026-02-07,Away,Wolves,,,
+Chelsea,2026-02-11,Home,Leeds United,,,
+Chelsea,2026-02-21,Home,Burnley,,,
+Chelsea,2026-02-28,Away,Arsenal,,,
+Chelsea,2026-03-04,Away,Aston Villa,,,
+Chelsea,2026-03-14,Home,Newcastle Utd,,,
+Chelsea,2026-03-21,Away,Everton,,,
+Chelsea,2026-04-11,Home,Manchester City,,,
+Chelsea,2026-04-18,Home,Manchester Utd,,,
+Chelsea,2026-04-25,Away,Brighton,,,
+Chelsea,2026-05-02,Home,Nott'ham Forest,,,
+Chelsea,2026-05-09,Away,Liverpool,,,
+Chelsea,2026-05-17,Home,Tottenham,,,
+Chelsea,2026-05-24,Away,Sunderland,,,
+Crystal Palace,2025-08-17,Away,Chelsea,D,0,0
+Crystal Palace,2025-08-21,Home,no Fredrikstad,W,1,0
+Crystal Palace,2025-08-24,Home,Nott'ham Forest,D,1,1
+Crystal Palace,2025-08-28,Away,no Fredrikstad,D,0,0
+Crystal Palace,2025-08-31,Away,Aston Villa,W,3,0
+Crystal Palace,2025-09-13,Home,Sunderland,D,0,0
+Crystal Palace,2025-09-16,Home,Millwall,D,1 (4),1 (2)
+Crystal Palace,2025-09-20,Away,West Ham,W,2,1
+Crystal Palace,2025-09-27,Home,Liverpool,W,2,1
+Crystal Palace,2025-10-02,Away,ua Dynamo Kyiv,W,2,0
+Crystal Palace,2025-10-05,Away,Everton,L,1,2
+Crystal Palace,2025-10-18,Home,Bournemouth,D,3,3
+Crystal Palace,2025-10-23,Home,cy AÉK Lárnaka,L,0,1
+Crystal Palace,2025-10-26,Away,Arsenal,L,0,1
+Crystal Palace,2025-10-29,Away,Liverpool,W,3,0
+Crystal Palace,2025-11-01,Home,Brentford,,,
+Crystal Palace,2025-11-06,Home,nl AZ Alkmaar,,,
+Crystal Palace,2025-11-09,Home,Brighton,,,
+Crystal Palace,2025-11-22,Away,Wolves,,,
+Crystal Palace,2025-11-27,Away,fr Strasbourg,,,
+Crystal Palace,2025-11-30,Home,Manchester Utd,,,
+Crystal Palace,2025-12-03,Away,Burnley,,,
+Crystal Palace,2025-12-07,Away,Fulham,,,
+Crystal Palace,2025-12-11,Away,ie Shelbourne FC,,,
+Crystal Palace,2025-12-14,Home,Manchester City,,,
+Crystal Palace,2025-12-18,Home,fi KuPS,,,
+Crystal Palace,2025-12-21,Away,Leeds United,,,
+Crystal Palace,2025-12-27,Home,Tottenham,,,
+Crystal Palace,2025-12-30,Home,Fulham,,,
+Crystal Palace,2026-01-03,Away,Newcastle Utd,,,
+Crystal Palace,2026-01-07,Home,Aston Villa,,,
+Crystal Palace,2026-01-17,Away,Sunderland,,,
+Crystal Palace,2026-01-24,Home,Chelsea,,,
+Crystal Palace,2026-01-31,Away,Nott'ham Forest,,,
+Crystal Palace,2026-02-07,Away,Brighton,,,
+Crystal Palace,2026-02-11,Home,Burnley,,,
+Crystal Palace,2026-02-21,Home,Wolves,,,
+Crystal Palace,2026-02-28,Away,Manchester Utd,,,
+Crystal Palace,2026-03-04,Away,Tottenham,,,
+Crystal Palace,2026-03-14,Home,Leeds United,,,
+Crystal Palace,2026-03-21,Away,Manchester City,,,
+Crystal Palace,2026-04-11,Home,Newcastle Utd,,,
+Crystal Palace,2026-04-18,Home,West Ham,,,
+Crystal Palace,2026-04-25,Away,Liverpool,,,
+Crystal Palace,2026-05-02,Away,Bournemouth,,,
+Crystal Palace,2026-05-09,Home,Everton,,,
+Crystal Palace,2026-05-17,Away,Brentford,,,
+Crystal Palace,2026-05-24,Home,Arsenal,,,
+Brentford,2025-08-23,Home,Aston Villa,W,1,0
+Brentford,2025-08-26,Away,Bournemouth,W,2,0
+Brentford,2025-08-30,Away,Sunderland,L,1,2
+Brentford,2025-09-13,Home,Chelsea,D,2,2
+Brentford,2025-09-16,Home,Aston Villa,D,1 (4),1 (2)
+Brentford,2025-09-20,Away,Fulham,L,1,3
+Brentford,2025-09-27,Home,Manchester Utd,W,3,1
+Brentford,2025-10-05,Home,Manchester City,L,0,1
+Brentford,2025-10-20,Away,West Ham,W,2,0
+Brentford,2025-10-25,Home,Liverpool,W,3,2
+Brentford,2025-10-28,Away,Grimsby Town,W,5,0
+Brentford,2025-11-01,Away,Crystal Palace,,,
+Brentford,2025-11-09,Home,Newcastle Utd,,,
+Brentford,2025-11-22,Away,Brighton,,,
+Brentford,2025-11-29,Home,Burnley,,,
+Brentford,2025-12-03,Away,Arsenal,,,
+Brentford,2025-12-06,Away,Tottenham,,,
+Brentford,2025-12-14,Home,Leeds United,,,
+Brentford,2025-12-20,Away,Wolves,,,
+Brentford,2025-12-27,Home,Bournemouth,,,
+Brentford,2025-12-30,Home,Tottenham,,,
+Brentford,2026-01-03,Away,Everton,,,
+Brentford,2026-01-07,Home,Sunderland,,,
+Brentford,2026-01-17,Away,Chelsea,,,
+Brentford,2026-01-24,Home,Nott'ham Forest,,,
+Brentford,2026-01-31,Away,Aston Villa,,,
+Brentford,2026-02-07,Away,Newcastle Utd,,,
+Brentford,2026-02-11,Home,Arsenal,,,
+Brentford,2026-02-21,Home,Brighton,,,
+Brentford,2026-02-28,Away,Burnley,,,
+Brentford,2026-03-04,Away,Bournemouth,,,
+Brentford,2026-03-14,Home,Wolves,,,
+Brentford,2026-03-21,Away,Leeds United,,,
+Brentford,2026-04-11,Home,Everton,,,
+Brentford,2026-04-18,Home,Fulham,,,
+Brentford,2026-04-25,Away,Manchester Utd,,,
+Brentford,2026-05-02,Home,West Ham,,,
+Brentford,2026-05-09,Away,Manchester City,,,
+Brentford,2026-05-17,Home,Crystal Palace,,,
+Brentford,2026-05-24,Away,Liverpool,,,
+Newcastle Utd,2025-08-25,Home,Liverpool,L,2,3
+Newcastle Utd,2025-08-30,Away,Leeds United,D,0,0
+Newcastle Utd,2025-09-13,Home,Wolves,W,1,0
+Newcastle Utd,2025-09-18,Home,es Barcelona,L,1,2
+Newcastle Utd,2025-09-21,Away,Bournemouth,D,0,0
+Newcastle Utd,2025-09-24,Home,Bradford City,W,4,1
+Newcastle Utd,2025-09-28,Home,Arsenal,L,1,2
+Newcastle Utd,2025-10-01,Away,be Union SG,W,4,0
+Newcastle Utd,2025-10-05,Home,Nott'ham Forest,W,2,0
+Newcastle Utd,2025-10-18,Away,Brighton,L,1,2
+Newcastle Utd,2025-10-21,Home,pt Benfica,W,3,0
+Newcastle Utd,2025-10-25,Home,Fulham,W,2,1
+Newcastle Utd,2025-10-29,Home,Tottenham,W,2,0
+Newcastle Utd,2025-11-02,Away,West Ham,,,
+Newcastle Utd,2025-11-05,Home,es Athletic Club,,,
+Newcastle Utd,2025-11-09,Away,Brentford,,,
+Newcastle Utd,2025-11-22,Home,Manchester City,,,
+Newcastle Utd,2025-11-25,Away,fr Marseille,,,
+Newcastle Utd,2025-11-29,Away,Everton,,,
+Newcastle Utd,2025-12-02,Home,Tottenham,,,
+Newcastle Utd,2025-12-06,Home,Burnley,,,
+Newcastle Utd,2025-12-10,Away,de Leverkusen,,,
+Newcastle Utd,2025-12-14,Away,Sunderland,,,
+Newcastle Utd,2025-12-20,Home,Chelsea,,,
+Newcastle Utd,2025-12-27,Away,Manchester Utd,,,
+Newcastle Utd,2025-12-30,Away,Burnley,,,
+Newcastle Utd,2026-01-03,Home,Crystal Palace,,,
+Newcastle Utd,2026-01-07,Home,Leeds United,,,
+Newcastle Utd,2026-01-17,Away,Wolves,,,
+Newcastle Utd,2026-01-21,Home,nl PSV Eindhoven,,,
+Newcastle Utd,2026-01-24,Home,Aston Villa,,,
+Newcastle Utd,2026-01-28,Away,fr Paris S-G,,,
+Newcastle Utd,2026-01-31,Away,Liverpool,,,
+Newcastle Utd,2026-02-07,Home,Brentford,,,
+Newcastle Utd,2026-02-11,Away,Tottenham,,,
+Newcastle Utd,2026-02-21,Away,Manchester City,,,
+Newcastle Utd,2026-02-28,Home,Everton,,,
+Newcastle Utd,2026-03-04,Home,Manchester Utd,,,
+Newcastle Utd,2026-03-14,Away,Chelsea,,,
+Newcastle Utd,2026-03-21,Home,Sunderland,,,
+Newcastle Utd,2026-04-11,Away,Crystal Palace,,,
+Newcastle Utd,2026-04-18,Home,Bournemouth,,,
+Newcastle Utd,2026-04-25,Away,Arsenal,,,
+Newcastle Utd,2026-05-02,Home,Brighton,,,
+Newcastle Utd,2026-05-09,Away,Nott'ham Forest,,,
+Newcastle Utd,2026-05-17,Home,West Ham,,,
+Newcastle Utd,2026-05-24,Away,Fulham,,,
+Brighton,2025-08-24,Away,Everton,L,0,2
+Brighton,2025-08-27,Away,Oxford United,W,6,0
+Brighton,2025-08-31,Home,Manchester City,W,2,1
+Brighton,2025-09-13,Away,Bournemouth,L,1,2
+Brighton,2025-09-20,Home,Tottenham,D,2,2
+Brighton,2025-09-23,Away,Barnsley,W,6,0
+Brighton,2025-09-27,Away,Chelsea,W,3,1
+Brighton,2025-10-05,Away,Wolves,D,1,1
+Brighton,2025-10-18,Home,Newcastle Utd,W,2,1
+Brighton,2025-10-25,Away,Manchester Utd,L,2,4
+Brighton,2025-10-29,Away,Arsenal,L,0,2
+Brighton,2025-11-01,Home,Leeds United,,,
+Brighton,2025-11-09,Away,Crystal Palace,,,
+Brighton,2025-11-22,Home,Brentford,,,
+Brighton,2025-11-30,Away,Nott'ham Forest,,,
+Brighton,2025-12-03,Home,Aston Villa,,,
+Brighton,2025-12-07,Home,West Ham,,,
+Brighton,2025-12-13,Away,Liverpool,,,
+Brighton,2025-12-20,Home,Sunderland,,,
+Brighton,2025-12-27,Away,Arsenal,,,
+Brighton,2025-12-30,Away,West Ham,,,
+Brighton,2026-01-03,Home,Burnley,,,
+Brighton,2026-01-07,Away,Manchester City,,,
+Brighton,2026-01-17,Home,Bournemouth,,,
+Brighton,2026-01-24,Away,Fulham,,,
+Brighton,2026-01-31,Home,Everton,,,
+Brighton,2026-02-07,Home,Crystal Palace,,,
+Brighton,2026-02-11,Away,Aston Villa,,,
+Brighton,2026-02-21,Away,Brentford,,,
+Brighton,2026-02-28,Home,Nott'ham Forest,,,
+Brighton,2026-03-04,Home,Arsenal,,,
+Brighton,2026-03-14,Away,Sunderland,,,
+Brighton,2026-03-21,Home,Liverpool,,,
+Brighton,2026-04-11,Away,Burnley,,,
+Brighton,2026-04-18,Away,Tottenham,,,
+Brighton,2026-04-25,Home,Chelsea,,,
+Brighton,2026-05-02,Away,Newcastle Utd,,,
+Brighton,2026-05-09,Home,Wolves,,,
+Brighton,2026-05-17,Away,Leeds United,,,
+Brighton,2026-05-24,Home,Manchester Utd,,,
+Everton,2025-08-24,Home,Brighton,W,2,0
+Everton,2025-08-27,Home,Mansfield Town,W,2,0
+Everton,2025-08-30,Away,Wolves,W,3,2
+Everton,2025-09-13,Home,Aston Villa,D,0,0
+Everton,2025-09-20,Away,Liverpool,L,1,2
+Everton,2025-09-23,Away,Wolves,L,0,2
+Everton,2025-09-29,Home,West Ham,D,1,1
+Everton,2025-10-05,Home,Crystal Palace,W,2,1
+Everton,2025-10-18,Away,Manchester City,L,0,2
+Everton,2025-10-26,Home,Tottenham,L,0,3
+Everton,2025-11-03,Away,Sunderland,,,
+Everton,2025-11-08,Home,Fulham,,,
+Everton,2025-11-24,Away,Manchester Utd,,,
+Everton,2025-11-29,Home,Newcastle Utd,,,
+Everton,2025-12-02,Away,Bournemouth,,,
+Everton,2025-12-06,Home,Nott'ham Forest,,,
+Everton,2025-12-13,Away,Chelsea,,,
+Everton,2025-12-21,Home,Arsenal,,,
+Everton,2025-12-27,Away,Burnley,,,
+Everton,2025-12-30,Away,Nott'ham Forest,,,
+Everton,2026-01-03,Home,Brentford,,,
+Everton,2026-01-07,Home,Wolves,,,
+Everton,2026-01-17,Away,Aston Villa,,,
+Everton,2026-01-24,Home,Leeds United,,,
+Everton,2026-01-31,Away,Brighton,,,
+Everton,2026-02-07,Away,Fulham,,,
+Everton,2026-02-11,Home,Bournemouth,,,
+Everton,2026-02-21,Home,Manchester Utd,,,
+Everton,2026-02-28,Away,Newcastle Utd,,,
+Everton,2026-03-04,Home,Burnley,,,
+Everton,2026-03-14,Away,Arsenal,,,
+Everton,2026-03-21,Home,Chelsea,,,
+Everton,2026-04-11,Away,Brentford,,,
+Everton,2026-04-18,Home,Liverpool,,,
+Everton,2026-04-25,Away,West Ham,,,
+Everton,2026-05-02,Home,Manchester City,,,
+Everton,2026-05-09,Away,Crystal Palace,,,
+Everton,2026-05-17,Home,Sunderland,,,
+Everton,2026-05-24,Away,Tottenham,,,
+Leeds United,2025-08-23,Away,Arsenal,L,0,5
+Leeds United,2025-08-26,Away,Sheffield Weds,D,1 (0),1 (3)
+Leeds United,2025-08-30,Home,Newcastle Utd,D,0,0
+Leeds United,2025-09-13,Away,Fulham,L,0,1
+Leeds United,2025-09-20,Away,Wolves,W,3,1
+Leeds United,2025-09-27,Home,Bournemouth,D,2,2
+Leeds United,2025-10-04,Home,Tottenham,L,1,2
+Leeds United,2025-10-18,Away,Burnley,L,0,2
+Leeds United,2025-10-24,Home,West Ham,W,2,1
+Leeds United,2025-11-01,Away,Brighton,,,
+Leeds United,2025-11-09,Away,Nott'ham Forest,,,
+Leeds United,2025-11-23,Home,Aston Villa,,,
+Leeds United,2025-11-29,Away,Manchester City,,,
+Leeds United,2025-12-03,Home,Chelsea,,,
+Leeds United,2025-12-06,Home,Liverpool,,,
+Leeds United,2025-12-14,Away,Brentford,,,
+Leeds United,2025-12-21,Home,Crystal Palace,,,
+Leeds United,2025-12-27,Away,Sunderland,,,
+Leeds United,2025-12-30,Away,Liverpool,,,
+Leeds United,2026-01-03,Home,Manchester Utd,,,
+Leeds United,2026-01-07,Away,Newcastle Utd,,,
+Leeds United,2026-01-17,Home,Fulham,,,
+Leeds United,2026-01-24,Away,Everton,,,
+Leeds United,2026-01-31,Home,Arsenal,,,
+Leeds United,2026-02-07,Home,Nott'ham Forest,,,
+Leeds United,2026-02-11,Away,Chelsea,,,
+Leeds United,2026-02-21,Away,Aston Villa,,,
+Leeds United,2026-02-28,Home,Manchester City,,,
+Leeds United,2026-03-04,Home,Sunderland,,,
+Leeds United,2026-03-14,Away,Crystal Palace,,,
+Leeds United,2026-03-21,Home,Brentford,,,
+Leeds United,2026-04-11,Away,Manchester Utd,,,
+Leeds United,2026-04-18,Home,Wolves,,,
+Leeds United,2026-04-25,Away,Bournemouth,,,
+Leeds United,2026-05-02,Home,Burnley,,,
+Leeds United,2026-05-09,Away,Tottenham,,,
+Leeds United,2026-05-17,Home,Brighton,,,
+Leeds United,2026-05-24,Away,West Ham,,,
+Burnley,2025-08-23,Home,Sunderland,W,2,0
+Burnley,2025-08-26,Home,Derby County,W,2,1
+Burnley,2025-08-30,Away,Manchester Utd,L,2,3
+Burnley,2025-09-14,Home,Liverpool,L,0,1
+Burnley,2025-09-20,Home,Nott'ham Forest,D,1,1
+Burnley,2025-09-23,Home,Cardiff City,L,1,2
+Burnley,2025-09-27,Away,Manchester City,L,1,5
+Burnley,2025-10-05,Away,Aston Villa,L,1,2
+Burnley,2025-10-18,Home,Leeds United,W,2,0
+Burnley,2025-10-26,Away,Wolves,W,3,2
+Burnley,2025-11-01,Home,Arsenal,,,
+Burnley,2025-11-08,Away,West Ham,,,
+Burnley,2025-11-22,Home,Chelsea,,,
+Burnley,2025-11-29,Away,Brentford,,,
+Burnley,2025-12-03,Home,Crystal Palace,,,
+Burnley,2025-12-06,Away,Newcastle Utd,,,
+Burnley,2025-12-13,Home,Fulham,,,
+Burnley,2025-12-20,Away,Bournemouth,,,
+Burnley,2025-12-27,Home,Everton,,,
+Burnley,2025-12-30,Home,Newcastle Utd,,,
+Burnley,2026-01-03,Away,Brighton,,,
+Burnley,2026-01-07,Home,Manchester Utd,,,
+Burnley,2026-01-17,Away,Liverpool,,,
+Burnley,2026-01-24,Home,Tottenham,,,
+Burnley,2026-01-31,Away,Sunderland,,,
+Burnley,2026-02-07,Home,West Ham,,,
+Burnley,2026-02-11,Away,Crystal Palace,,,
+Burnley,2026-02-21,Away,Chelsea,,,
+Burnley,2026-02-28,Home,Brentford,,,
+Burnley,2026-03-04,Away,Everton,,,
+Burnley,2026-03-14,Home,Bournemouth,,,
+Burnley,2026-03-21,Away,Fulham,,,
+Burnley,2026-04-11,Home,Brighton,,,
+Burnley,2026-04-18,Away,Nott'ham Forest,,,
+Burnley,2026-04-25,Home,Manchester City,,,
+Burnley,2026-05-02,Away,Leeds United,,,
+Burnley,2026-05-09,Home,Aston Villa,,,
+Burnley,2026-05-17,Away,Arsenal,,,
+Burnley,2026-05-24,Home,Wolves,,,
+Fulham,2025-08-24,Home,Manchester Utd,D,1,1
+Fulham,2025-08-27,Home,Bristol City,W,2,0
+Fulham,2025-08-30,Away,Chelsea,L,0,2
+Fulham,2025-09-13,Home,Leeds United,W,1,0
+Fulham,2025-09-20,Home,Brentford,W,3,1
+Fulham,2025-09-23,Home,Cambridge Utd,W,1,0
+Fulham,2025-09-28,Away,Aston Villa,L,1,3
+Fulham,2025-10-03,Away,Bournemouth,L,1,3
+Fulham,2025-10-18,Home,Arsenal,L,0,1
+Fulham,2025-10-25,Away,Newcastle Utd,L,1,2
+Fulham,2025-10-28,Away,Wycombe,D,1 (5),1 (4)
+Fulham,2025-11-01,Home,Wolves,,,
+Fulham,2025-11-08,Away,Everton,,,
+Fulham,2025-11-22,Home,Sunderland,,,
+Fulham,2025-11-29,Away,Tottenham,,,
+Fulham,2025-12-02,Home,Manchester City,,,
+Fulham,2025-12-07,Home,Crystal Palace,,,
+Fulham,2025-12-13,Away,Burnley,,,
+Fulham,2025-12-22,Home,Nott'ham Forest,,,
+Fulham,2025-12-27,Away,West Ham,,,
+Fulham,2025-12-30,Away,Crystal Palace,,,
+Fulham,2026-01-03,Home,Liverpool,,,
+Fulham,2026-01-07,Home,Chelsea,,,
+Fulham,2026-01-17,Away,Leeds United,,,
+Fulham,2026-01-24,Home,Brighton,,,
+Fulham,2026-01-31,Away,Manchester Utd,,,
+Fulham,2026-02-07,Home,Everton,,,
+Fulham,2026-02-11,Away,Manchester City,,,
+Fulham,2026-02-21,Away,Sunderland,,,
+Fulham,2026-02-28,Home,Tottenham,,,
+Fulham,2026-03-04,Home,West Ham,,,
+Fulham,2026-03-14,Away,Nott'ham Forest,,,
+Fulham,2026-03-21,Home,Burnley,,,
+Fulham,2026-04-11,Away,Liverpool,,,
+Fulham,2026-04-18,Away,Brentford,,,
+Fulham,2026-04-25,Home,Aston Villa,,,
+Fulham,2026-05-02,Away,Arsenal,,,
+Fulham,2026-05-09,Home,Bournemouth,,,
+Fulham,2026-05-17,Away,Wolves,,,
+Fulham,2026-05-24,Home,Newcastle Utd,,,
+Nott'ham Forest,2025-08-24,Away,Crystal Palace,D,1,1
+Nott'ham Forest,2025-08-31,Home,West Ham,L,0,3
+Nott'ham Forest,2025-09-13,Away,Arsenal,L,0,3
+Nott'ham Forest,2025-09-17,Away,Swansea City,L,2,3
+Nott'ham Forest,2025-09-20,Away,Burnley,D,1,1
+Nott'ham Forest,2025-09-24,Away,es Betis,D,2,2
+Nott'ham Forest,2025-09-27,Home,Sunderland,L,0,1
+Nott'ham Forest,2025-10-02,Home,dk Midtjylland,L,2,3
+Nott'ham Forest,2025-10-05,Away,Newcastle Utd,L,0,2
+Nott'ham Forest,2025-10-18,Home,Chelsea,L,0,3
+Nott'ham Forest,2025-10-23,Home,pt Porto,W,2,0
+Nott'ham Forest,2025-10-26,Away,Bournemouth,L,0,2
+Nott'ham Forest,2025-11-01,Home,Manchester Utd,,,
+Nott'ham Forest,2025-11-06,Away,at Sturm Graz,,,
+Nott'ham Forest,2025-11-09,Home,Leeds United,,,
+Nott'ham Forest,2025-11-22,Away,Liverpool,,,
+Nott'ham Forest,2025-11-27,Home,se Malmö,,,
+Nott'ham Forest,2025-11-30,Home,Brighton,,,
+Nott'ham Forest,2025-12-03,Away,Wolves,,,
+Nott'ham Forest,2025-12-06,Away,Everton,,,
+Nott'ham Forest,2025-12-11,Away,nl Utrecht,,,
+Nott'ham Forest,2025-12-14,Home,Tottenham,,,
+Nott'ham Forest,2025-12-22,Away,Fulham,,,
+Nott'ham Forest,2025-12-27,Home,Manchester City,,,
+Nott'ham Forest,2025-12-30,Home,Everton,,,
+Nott'ham Forest,2026-01-03,Away,Aston Villa,,,
+Nott'ham Forest,2026-01-07,Away,West Ham,,,
+Nott'ham Forest,2026-01-17,Home,Arsenal,,,
+Nott'ham Forest,2026-01-22,Away,pt Braga,,,
+Nott'ham Forest,2026-01-24,Away,Brentford,,,
+Nott'ham Forest,2026-01-29,Home,hu Ferencváros,,,
+Nott'ham Forest,2026-01-31,Home,Crystal Palace,,,
+Nott'ham Forest,2026-02-07,Away,Leeds United,,,
+Nott'ham Forest,2026-02-11,Home,Wolves,,,
+Nott'ham Forest,2026-02-21,Home,Liverpool,,,
+Nott'ham Forest,2026-02-28,Away,Brighton,,,
+Nott'ham Forest,2026-03-04,Away,Manchester City,,,
+Nott'ham Forest,2026-03-14,Home,Fulham,,,
+Nott'ham Forest,2026-03-21,Away,Tottenham,,,
+Nott'ham Forest,2026-04-11,Home,Aston Villa,,,
+Nott'ham Forest,2026-04-18,Home,Burnley,,,
+Nott'ham Forest,2026-04-25,Away,Sunderland,,,
+Nott'ham Forest,2026-05-02,Away,Chelsea,,,
+Nott'ham Forest,2026-05-09,Home,Newcastle Utd,,,
+Nott'ham Forest,2026-05-17,Away,Manchester Utd,,,
+Nott'ham Forest,2026-05-24,Home,Bournemouth,,,
+West Ham,2025-08-22,Home,Chelsea,L,1,5
+West Ham,2025-08-26,Away,Wolves,L,2,3
+West Ham,2025-08-31,Away,Nott'ham Forest,W,3,0
+West Ham,2025-09-13,Home,Tottenham,L,0,3
+West Ham,2025-09-20,Home,Crystal Palace,L,1,2
+West Ham,2025-09-29,Away,Everton,D,1,1
+West Ham,2025-10-04,Away,Arsenal,L,0,2
+West Ham,2025-10-20,Home,Brentford,L,0,2
+West Ham,2025-10-24,Away,Leeds United,L,1,2
+West Ham,2025-11-02,Home,Newcastle Utd,,,
+West Ham,2025-11-08,Home,Burnley,,,
+West Ham,2025-11-22,Away,Bournemouth,,,
+West Ham,2025-11-30,Home,Liverpool,,,
+West Ham,2025-12-04,Away,Manchester Utd,,,
+West Ham,2025-12-07,Away,Brighton,,,
+West Ham,2025-12-14,Home,Aston Villa,,,
+West Ham,2025-12-20,Away,Manchester City,,,
+West Ham,2025-12-27,Home,Fulham,,,
+West Ham,2025-12-30,Home,Brighton,,,
+West Ham,2026-01-03,Away,Wolves,,,
+West Ham,2026-01-07,Home,Nott'ham Forest,,,
+West Ham,2026-01-17,Away,Tottenham,,,
+West Ham,2026-01-24,Home,Sunderland,,,
+West Ham,2026-01-31,Away,Chelsea,,,
+West Ham,2026-02-07,Away,Burnley,,,
+West Ham,2026-02-11,Home,Manchester Utd,,,
+West Ham,2026-02-21,Home,Bournemouth,,,
+West Ham,2026-02-28,Away,Liverpool,,,
+West Ham,2026-03-04,Away,Fulham,,,
+West Ham,2026-03-14,Home,Manchester City,,,
+West Ham,2026-03-21,Away,Aston Villa,,,
+West Ham,2026-04-11,Home,Wolves,,,
+West Ham,2026-04-18,Away,Crystal Palace,,,
+West Ham,2026-04-25,Home,Everton,,,
+West Ham,2026-05-02,Away,Brentford,,,
+West Ham,2026-05-09,Home,Arsenal,,,
+West Ham,2026-05-17,Away,Newcastle Utd,,,
+West Ham,2026-05-24,Home,Leeds United,,,
+Wolves,2025-08-23,Away,Bournemouth,L,0,1
+Wolves,2025-08-26,Home,West Ham,W,3,2
+Wolves,2025-08-30,Home,Everton,L,2,3
+Wolves,2025-09-13,Away,Newcastle Utd,L,0,1
+Wolves,2025-09-20,Home,Leeds United,L,1,3
+Wolves,2025-09-23,Home,Everton,W,2,0
+Wolves,2025-09-27,Away,Tottenham,D,1,1
+Wolves,2025-10-05,Home,Brighton,D,1,1
+Wolves,2025-10-18,Away,Sunderland,L,0,2
+Wolves,2025-10-26,Home,Burnley,L,2,3
+Wolves,2025-10-29,Home,Chelsea,L,3,4
+Wolves,2025-11-01,Away,Fulham,,,
+Wolves,2025-11-08,Away,Chelsea,,,
+Wolves,2025-11-22,Home,Crystal Palace,,,
+Wolves,2025-11-30,Away,Aston Villa,,,
+Wolves,2025-12-03,Home,Nott'ham Forest,,,
+Wolves,2025-12-08,Home,Manchester Utd,,,
+Wolves,2025-12-13,Away,Arsenal,,,
+Wolves,2025-12-20,Home,Brentford,,,
+Wolves,2025-12-27,Away,Liverpool,,,
+Wolves,2025-12-30,Away,Manchester Utd,,,
+Wolves,2026-01-03,Home,West Ham,,,
+Wolves,2026-01-07,Away,Everton,,,
+Wolves,2026-01-17,Home,Newcastle Utd,,,
+Wolves,2026-01-24,Away,Manchester City,,,
+Wolves,2026-01-31,Home,Bournemouth,,,
+Wolves,2026-02-07,Home,Chelsea,,,
+Wolves,2026-02-11,Away,Nott'ham Forest,,,
+Wolves,2026-02-21,Away,Crystal Palace,,,
+Wolves,2026-02-28,Home,Aston Villa,,,
+Wolves,2026-03-04,Home,Liverpool,,,
+Wolves,2026-03-14,Away,Brentford,,,
+Wolves,2026-03-21,Home,Arsenal,,,
+Wolves,2026-04-11,Away,West Ham,,,
+Wolves,2026-04-18,Away,Leeds United,,,
+Wolves,2026-04-25,Home,Tottenham,,,
+Wolves,2026-05-02,Home,Sunderland,,,
+Wolves,2026-05-09,Away,Brighton,,,
+Wolves,2026-05-17,Home,Fulham,,,
+Wolves,2026-05-24,Away,Burnley,,,
