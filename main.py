@@ -1,122 +1,85 @@
-from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium import webdriver
 import pandas as pd
 import time
 
-driver = webdriver.Chrome()
+# Options pour Chrome (headless si tu veux)
+opt = Options()
+# opt.add_argument("--headless")  # décommente si tu veux sans interface
+
+driver = webdriver.Chrome(options=opt)
 wait = WebDriverWait(driver, 10)
 
-url = "https://fbref.com/en/comps/9/Premier-League-Stats"
+url = "https://fbref.com/en/comps/9/2024-2025/2024-2025-Premier-League-Stats"
+
+all_players = []
+all_matches = []
 
 try:
     driver.get(url)
     time.sleep(3)
-    table = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "table.stats_table")))
-    team_links = []
-    team_names = []
-    rows = table.find_elements(By.TAG_NAME, "tr")
-    for row in rows[1:]: 
+
+    # Récupérer les équipes via un sélecteur CSS stable
+    search_box = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "table.stats_table")))
+    elements = search_box.find_elements(By.CSS_SELECTOR, "tbody > tr > .left > a")
+    team_names = [e.text for e in elements]
+    links = [a.get_attribute("href") for a in elements]
+
+    # Boucle sur chaque équipe
+    for team_name, link in zip(team_names, links):
+        driver.get(link)
+        time.sleep(3)
+
+        # Récupérer les joueurs
         try:
-            team_cell = row.find_element(By.CSS_SELECTOR, "td[data-stat='team']")
-            link = team_cell.find_element(By.TAG_NAME, "a")
-            team_name = link.text
-            team_url = link.get_attribute("href")
-            
-            team_names.append(team_name)
-            team_links.append(team_url)
-        except:
-            continue
-        
-    all_players = []
-    all_matches = []
-    
-    for i, (team_name, team_url) in enumerate(zip(team_names, team_links), 1):
-        
-        driver.get(team_url)
-        time.sleep(2)
-        
-        try:
-            players_table = driver.find_element(By.CSS_SELECTOR, "table#stats_standard_9")
+            players_table = driver.find_element(By.ID, "stats_standard_9")
             players_rows = players_table.find_elements(By.TAG_NAME, "tr")
-            
-            for row in players_rows[2:]:  
+            for row in players_rows[1:]:
                 try:
-                    joueur_cell = row.find_element(By.CSS_SELECTOR, "th[data-stat='player']")
-                    joueur = joueur_cell.text
-                    
-                    if not joueur or joueur == "":
+                    joueur = row.find_element(By.CSS_SELECTOR, "th[data-stat='player']").text
+                    if not joueur:
                         continue
-                    
-                    nationalite = row.find_element(By.CSS_SELECTOR, "td[data-stat='nationality']").text
-                    poste = row.find_element(By.CSS_SELECTOR, "td[data-stat='position']").text
-                    age = row.find_element(By.CSS_SELECTOR, "td[data-stat='age']").text.split('-')[0]  
-                    matchs = row.find_element(By.CSS_SELECTOR, "td[data-stat='games']").text
-                    minutes = row.find_element(By.CSS_SELECTOR, "td[data-stat='minutes']").text
-                    
                     player_data = {
                         'equipe': team_name,
                         'joueur': joueur,
-                        'nationalite': nationalite,
-                        'poste': poste,
-                        'age': age,
-                        'matchs_joues': matchs,
-                        'minutes': minutes
+                        'nationalite': row.find_element(By.CSS_SELECTOR, "td[data-stat='nationality']").text,
+                        'poste': row.find_element(By.CSS_SELECTOR, "td[data-stat='position']").text,
+                        'age': row.find_element(By.CSS_SELECTOR, "td[data-stat='age']").text.split('-')[0],
+                        'matchs_joues': row.find_element(By.CSS_SELECTOR, "td[data-stat='games']").text,
+                        'minutes': row.find_element(By.CSS_SELECTOR, "td[data-stat='minutes']").text
                     }
                     all_players.append(player_data)
                 except:
                     continue
-            
-        except Exception as e:
-            print(f"  ✗ Erreur joueurs: {e}")
-        
+        except:
+            print(f"Erreur récupération joueurs pour {team_name}")
+
+        # Récupérer les matchs
         try:
-            matches_table = driver.find_element(By.CSS_SELECTOR, "table#matchlogs_for")
+            matches_table = driver.find_element(By.ID, "matchlogs_for")
             matches_rows = matches_table.find_elements(By.TAG_NAME, "tr")
-            
-            for row in matches_rows[2:]:  
+            for row in matches_rows[1:]:
                 try:
-                    date = row.find_element(By.CSS_SELECTOR, "th[data-stat='date']").text
-                    
-                    if not date or date == "":
+                    if row.find_element(By.CSS_SELECTOR, '[data-stat="comp"]').text != "Premier League":
                         continue
-                    
-                    domicile_exterieur = row.find_element(By.CSS_SELECTOR, "td[data-stat='venue']").text
-                    adversaire = row.find_element(By.CSS_SELECTOR, "td[data-stat='opponent']").text
-                    resultat = row.find_element(By.CSS_SELECTOR, "td[data-stat='result']").text
-                    buts_pour = row.find_element(By.CSS_SELECTOR, "td[data-stat='goals_for']").text
-                    buts_contre = row.find_element(By.CSS_SELECTOR, "td[data-stat='goals_against']").text
-                    
-                    match_data = {
-                        'equipe': team_name,
-                        'date': date,
-                        'domicile_exterieur': domicile_exterieur,
-                        'adversaire': adversaire,
-                        'resultat': resultat,
-                        'buts_pour': buts_pour,
-                        'buts_contre': buts_contre
-                    }
+                    match_data = {m: row.find_element(By.CSS_SELECTOR, f'[data-stat="{m}"]').text
+                                  for m in ["date", "start_time", "comp", "round", "dayofweek", "venue",
+                                            "result", "goals_for", "goals_against", "opponent", "xg_for",
+                                            "xg_against", "possession", "attendance", "captain", "formation",
+                                            "opp_formation", "referee"]}
+                    match_data['team'] = team_name
                     all_matches.append(match_data)
                 except:
                     continue
-            
-        except Exception as e:
-            print(f"  ✗ Erreur matchs: {e}")
-    
-    df_players = pd.DataFrame(all_players)
-    df_players.to_csv('premier_league_joueurs_2024_2025.csv', index=False, encoding='utf-8')
-    
-    df_matches = pd.DataFrame(all_matches)
-    df_matches.to_csv('premier_league_matchs_2024_2025.csv', index=False, encoding='utf-8')
-    
+        except:
+            print(f"Erreur récupération matchs pour {team_name}")
 
-except Exception as e:
-    print(f"\n❌ Erreur: {e}")
+    # Exporter CSV
+    pd.DataFrame(all_players).to_csv('premier_league_joueurs_2024_2025.csv', index=False, encoding='utf-8')
+    pd.DataFrame(all_matches).to_csv('premier_league_matchs_2024_2025.csv', index=False, encoding='utf-8')
 
 finally:
-    driver.quit()    
-    
-    
-    
-    
+    driver.quit()
